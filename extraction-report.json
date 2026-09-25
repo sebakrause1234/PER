@@ -8,7 +8,7 @@
     2156,
     2160
   ],
-  "ambiguous": 41,
+  "ambiguous": 44,
   "problematic": [
     {
       "id": 41,
@@ -629,9 +629,57 @@
         "a": "173º"
       },
       "raw": "A quin rumb circular correspon el rumb quadrantal S07E? / ¿A qué rumbo circular\ncorresponde el rumbo cuadrantal S07E?\n       a) 173º"
+    },
+    {
+      "id": 2104,
+      "source": "1125PEE-2",
+      "number": 42,
+      "page": 698,
+      "reasons": [
+        "No se identifican las cuatro opciones"
+      ],
+      "question": "A les 09h 30min iniciem una navegació des d’un punt situat a l’oest vertader (W/v), distància (d) = 1,5 milles, del far de l’ILLA DE TARIFA; naveguem al rumb d’agulla (Ra) = 294º amb una velocitat del vaixell (Vv) = 5,8 nusos. Quina serà la nostra po",
+      "choices": {
+        "a": "l = 36º 02,7’ N – L = 005º 46,6’ W",
+        "b": "l = 36º 03,2’ N – L = 005º 46,6’ E 42 Espai reservat pels càlculs. / Espacio reservado para los cálculos.",
+        "c": "l = 36º 02,7’ N – L = 005º 50,3’ W"
+      },
+      "raw": "A les 09h 30min iniciem una navegació des d’un punt situat a l’oest vertader\n    (W/v), distància (d) = 1,5 milles, del far de l’ILLA DE TARIFA; naveguem al\n   rumb d’agulla (Ra) = 294º amb una velocitat del vaixell (Vv) = 5,8 nusos. Quina\n   serà la nostra posició a les 11 h 15 min? Correcció total (Ct) = – 7º\n   A las 09 h 30 min iniciamos una navegación desde un punto situado al  oeste\n    verdadero (W/v), distancia (d) = 1,5 millas, del faro de  la ISLA DE TARIFA;\n   navegamos al rumbo de aguja (Ra) = 294º con una velocidad del buque (Vb) = 5,8\n    nudos. ¿Cuál será nuestra posición a las 11 h 15 min? Corrección total (Ct) = –7º\n         a)  l = 36º 02,7’ N – L = 005º 46,6’ W\n        b) "
+    },
+    {
+      "id": 2214,
+      "source": "PER-1-0622",
+      "number": 42,
+      "reasons": [
+        "Respuesta contradictoria para una pregunta equivalente en otro examen"
+      ],
+      "conflicts_with": 2243,
+      "question": "Quina situació obtindrem (latitud-Longitud) si prenem simultàniament demora d’agulla del far de PUNTA ALCÁZAR (Da) = 118º i demora d’agulla del far de PUNTA MALABATA (Da) = 213º? Desviació (∆) = +1,5º ¿Qué situación obtendremos (latitud-Longitud) si tomamos simultáneamente demora de aguja del faro de PUNTA ALCÁZAR (Da) = 118º y demora de aguja del faro de PUNTA MALABATA (Da) = 213º? Desvío (∆) = +1,5º",
+      "choices": {
+        "a": "l = 36º 54,2’ N – L = 006º 40,9’ W",
+        "b": "l = 35º 54,2’ N – L = 005º 40,9’ W",
+        "c": "l = 36º 54,4’ N – L = 005º 40,9’ W",
+        "d": "l = 35º 54,4’ N – L = 005º 40,2’ W"
+      }
+    },
+    {
+      "id": 2243,
+      "source": "PER-0722-2",
+      "number": 43,
+      "reasons": [
+        "Respuesta contradictoria para una pregunta equivalente en otro examen"
+      ],
+      "conflicts_with": 2214,
+      "question": "Quina situació obtindrem (latitud-Longitud) si prenem simultàniament demora d’agulla del far de PUNTA ALCÁZAR (Da) = 118º i demora d’agulla del far de PUNTA MALABATA (Da) = 213º? Desviació = +1,5º ¿ Qué situación obtendremos (latitud-Longitud) si tomamos simultáneamente demora de aguja del faro de PUNTA ALCÁZAR (Da) = 118º y demora de aguja del faro de PUNTA MALABATA (Da) = 213º? Desvío = +1,5º",
+      "choices": {
+        "a": "l = 36º 54,2’ N – L = 006º 40,9’ W",
+        "b": "l = 35º 54,2’ N – L = 005º 40,9’ W",
+        "c": "l = 36º 54,4’ N – L = 005º 40,9’ W",
+        "d": "l = 35º 54,4’ N – L = 005º 40,2’ W"
+      }
     }
   ],
-  "duplicate_count": 12,
+  "duplicate_count": 24,
   "duplicates": [
     [
       1205,
@@ -680,11 +728,58 @@
     [
       2038,
       1993
+    ],
+    [
+      2080,
+      2079
+    ],
+    [
+      2155,
+      2079
+    ],
+    [
+      2162,
+      2158
+    ],
+    [
+      2182,
+      2072
+    ],
+    [
+      2201,
+      2063
+    ],
+    [
+      2222,
+      2078
+    ],
+    [
+      2223,
+      2100
+    ],
+    [
+      2237,
+      2102
+    ],
+    [
+      2296,
+      2082
+    ],
+    [
+      2308,
+      2057
+    ],
+    [
+      2315,
+      2101
+    ],
+    [
+      2355,
+      2244
     ]
   ],
-  "valid": 1996,
-  "figure_count": 1423,
-  "excluded_carta": 314,
+  "valid": 2293,
+  "figure_count": 1432,
   "topics": {
     "Nomenclatura náutica": 208,
     "Elementos de amarre y fondeo": 105,
@@ -695,10 +790,11 @@
     "Maniobra": 100,
     "Emergencias en la mar": 126,
     "Meteorología": 172,
-    "Teoría de navegación": 306
+    "Teoría de navegación": 306,
+    "Carta de navegación": 297
   },
-  "exclusion_explanation": "Carta de navegación: 314 preguntas del PDF, incluidas dos anuladas. De las otras diez secciones: 2 anuladas, 41 con opciones incompletas/ilegibles o respuesta ausente y 12 duplicadas. Total publicado: 1996.",
   "annulled_outside_carta": 2,
   "annulled_in_carta": 2,
-  "source_pdf": "PER-preguntas-con-respuestas.pdf"
+  "source_pdf": "PER-preguntas-con-respuestas.pdf",
+  "navigation_chart_note": "Carta de navegación: 314 entradas; 2 anuladas, 1 con extracción incompleta, 2 con respuestas contradictorias y 12 duplicadas; 297 válidas añadidas. Muchas requieren una carta náutica externa que no figura en el PDF recopilado."
 }

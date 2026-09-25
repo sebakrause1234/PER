@@ -1,8 +1,8 @@
 # Práctica PER
 
-Sitio estático para practicar preguntas del examen PER en español. Contiene 1.996 preguntas válidas (excluye por pedido la sección «Carta de navegación») del banco extraído de `PER-preguntas-con-respuestas.pdf`, con los enunciados originales (a menudo bilingües), opciones, respuestas y recortes de las figuras presentes en el PDF.
+Sitio estático para practicar preguntas del examen PER en español. Contiene 2.293 preguntas válidas extraídas de `PER-preguntas-con-respuestas.pdf`, incluidas 297 de Carta de navegación, con los enunciados originales (a menudo bilingües), opciones, respuestas y recortes de las figuras presentes en el PDF.
 
-En «Tema y grupo» se puede elegir un bloque de hasta 50 preguntas: «Seguridad 1», «Seguridad 2», etc. También se puede practicar el banco completo. Los errores y el puntaje guardados en el navegador siguen disponibles después de actualizar la web.
+En «Tema y grupo» se puede elegir un bloque de hasta 50 preguntas de los temas habituales, o de hasta 10 preguntas en Carta de navegación: «Seguridad 1», «Seguridad 2», etc. También se puede practicar el banco completo. Los errores y el puntaje guardados en el navegador siguen disponibles después de actualizar la web.
 
 ## Ejecutar localmente
 
@@ -27,8 +27,8 @@ No requiere instalación, compilación, servidor de aplicaciones ni servicios ex
 
 El progreso se guarda solo en el navegador y se puede borrar desde la pantalla inicial.
 
-**Importante al publicar:** se deben subir todos los archivos de `figures/`. Si falta uno, la web indica el nombre del archivo ausente junto a la pregunta. Para actualizar un repositorio existente, copiá los archivos nuevos sobre la carpeta del proyecto y subilos junto con `app.js` e `index.html`.
+**Importante al publicar:** se deben subir todos los archivos de `figures/`. Si falta uno, la web indica el nombre del archivo ausente junto a la pregunta. Para actualizar un repositorio existente, copiá el contenido del ZIP de actualización sobre la carpeta del proyecto y subí los archivos modificados.
 
 ## Control de extracción
 
-Se cotejaron los 2.365 rótulos del PDF. Se excluyeron 314 preguntas de Carta de navegación, incluidas dos anuladas; en los otros temas se excluyeron otras dos anuladas, 41 preguntas incompletas o ambiguas y 12 duplicados textuales sin diferencias de figura. Las 1.996 preguntas publicadas tienen cuatro opciones y una única respuesta presente entre ellas. `extraction-report.json` identifica por número las 41 preguntas que requieren revisar el PDF fuente. Las preguntas con el mismo texto pero dibujos distintos se conservaron.
+Se cotejaron los 2.365 rótulos del PDF. Hay cuatro preguntas anuladas, 44 incompletas o con claves contradictorias y 24 duplicadas. Las 2.293 preguntas publicadas tienen cuatro opciones y una respuesta presente entre ellas. De Carta de navegación se añadieron 297: se excluyeron dos anuladas, una incompleta, dos con respuestas contradictorias y doce duplicadas. Muchos ejercicios de carta requieren la carta náutica externa, que no figura en el PDF recopilado. `extraction-report.json` identifica por número las 44 preguntas que requieren revisar el PDF fuente. Las preguntas con el mismo texto pero dibujos distintos se conservaron.
