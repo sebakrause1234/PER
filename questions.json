@@ -7546,7 +7546,7 @@
       "c": "A partir de 12 milles. / A partir de 12 millas.",
       "d": "No es poden llençar a cap distància. / No se pueden tirar a ninguna distancia."
     },
-    "correct": "b"
+    "correct": "c"
   },
   {
     "id": 516,
@@ -23026,7 +23026,7 @@
       "c": "Nusos. / Nudos.",
       "d": "Milles. / Millas."
     },
-    "correct": "c",
+    "correct": "d",
     "figure": "figures/1597.webp"
   },
   {
