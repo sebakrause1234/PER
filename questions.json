@@ -9925,21 +9925,6 @@
     "figure": "figures/679.webp"
   },
   {
-    "id": 680,
-    "source": "PEE-1-0524",
-    "number": 17,
-    "topic": "Balizamiento",
-    "question": "Que ens indica un llum blanc que ens trobem a la mar fent 3 centellejos seguits d’un instant de foscor? / ¿Qué nos indica una luz blanca que nos encontramos en la mar haciendo tres centelleos seguidos de un instante de oscuridad?",
-    "choices": {
-      "a": "El quadrant oest d’un perill és el navegable. / El cuadrante oeste de un peligro es el navegable.",
-      "b": "El quadrant sud d’un perill és el navegable. / El cuadrante sur de un peligro es el navegable.",
-      "c": "Aigües navegables per estribord del llum. / Aguas navegables por estribor de la luz.",
-      "d": "Aigües navegables per babord del llum. / Aguas navegables por babor de la luz."
-    },
-    "correct": "d",
-    "figure": "figures/680.webp"
-  },
-  {
     "id": 681,
     "source": "PEE-1-0924",
     "number": 13,
@@ -9953,21 +9938,6 @@
     },
     "correct": "d",
     "figure": "figures/681.webp"
-  },
-  {
-    "id": 682,
-    "source": "PEE-1-0924",
-    "number": 14,
-    "topic": "Balizamiento",
-    "question": "Navegant de nit dins un port veiem per la proa un llum vermell que compost d’un grup de llampades (2+1), què senyalitza la balisa que emet aquest llum? / Navegando de noche dentro de un puerto vemos por la proa una luz roja compuesta de un grupo de destellos (2+1), ¿qué señaliza la baliza que emite esta luz?",
-    "choices": {
-      "a": "La bocana del port. / La bocana del puerto.",
-      "b": "Perill aïllat. / Peligro aislado.",
-      "c": "Canal principal a babord. / Canal principal a babor.",
-      "d": "Perill d’embarrancar. / Peligro de embarrancar."
-    },
-    "correct": "d",
-    "figure": "figures/682.webp"
   },
   {
     "id": 683,
@@ -12075,7 +12045,7 @@
       "c": "Sud. / Sur.",
       "d": "Oest. / Oeste."
     },
-    "correct": "c"
+    "correct": "a"
   },
   {
     "id": 830,
