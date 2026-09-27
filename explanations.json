@@ -12,7 +12,7 @@
     "reason": "Código Internacional de Señales: las banderas N y C juntas comunican peligro y necesidad de ayuda."
   },
   "840": {
-    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "reason": "El dibujo muestra un velero visto desde popa: las luces todo horizonte roja sobre verde identifican la vela y la blanca inferior es la luz de alcance. Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
     "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
     "wrong": {
       "b": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
@@ -20,14 +20,14 @@
     }
   },
   "841": {
-    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+    "reason": "Es un buque sin gobierno con arrancada, visto por babor. Las dos luces rojas todo horizonte, una encima de otra, señalan que está sin gobierno; la luz roja más baja es la luz de costado de babor y muestra que lleva arrancada. Regla 27."
   },
   "842": {
     "reason": "Regla 18: un velero en navegación debe mantenerse apartado de un buque dedicado a la pesca.",
     "contrast": "La preferencia usual del velero frente al motor no se aplica frente a este buque."
   },
   "844": {
-    "reason": "Regla 23: un buque de motor de menos de 12 m puede usar una luz blanca todo horizonte junto con las luces de costado."
+    "reason": "Es una embarcación de propulsión mecánica de menos de 12 m. El dibujo muestra una luz blanca todo horizonte y luces de costado roja y verde: esa combinación está permitida a los buques de motor de esa eslora. Regla 23."
   },
   "845": {
     "reason": "Reglas 3 y 18: un velero que también utiliza el motor se considera de propulsión mecánica y debe mantenerse apartado de un velero."
@@ -80,7 +80,7 @@
     "reason": "Regla 3: un buque está en navegación si no está fondeado, amarrado a tierra ni varado, aunque no lleve arrancada."
   },
   "862": {
-    "reason": "Reglas 21 y 24: un remolcador visto por popa muestra la luz de remolque amarilla sobre su luz blanca de alcance."
+    "reason": "Es un remolcador visto desde popa. La luz amarilla de remolque se sitúa verticalmente por encima de la luz blanca de alcance; desde popa se ven esas dos luces. Regla 24."
   },
   "863": {
     "reason": "Regla 17: el buque que debe mantener su derrota conserva inicialmente rumbo y velocidad, pero vigila y actúa si el otro no maniobra y existe riesgo."
@@ -104,7 +104,7 @@
     "reason": "Regla 28: un buque restringido por su calado puede exhibir tres luces rojas todo horizonte en vertical."
   },
   "870": {
-    "reason": "Regla 24: por proa se reconoce el remolque por dos luces de tope blancas superpuestas (tres si el remolque supera 200 m); además se ven las luces de costado."
+    "reason": "Es un remolcador visto de proa: se ven tres luces blancas de tope en línea vertical y las luces de costado verde y roja. Las tres blancas indican un remolque cuya longitud supera 200 m; con un remolque más corto se muestran dos. Regla 24."
   },
   "871": {
     "reason": "Regla 18: el velero debe mantenerse apartado del buque sin gobierno, que no puede maniobrar como exige el reglamento."
@@ -126,7 +126,7 @@
     "contrast": "La preferencia usual del velero frente al motor no se aplica frente a este buque."
   },
   "877": {
-    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+    "reason": "Es un velero visto por babor. Las luces todo horizonte roja encima de verde son una combinación opcional propia de un buque de vela; la luz roja de costado inferior indica que lo vemos por babor. No hay luz de tope de motor. Regla 25."
   },
   "879": {
     "reason": "Regla 34: larga, corta, larga, corta es la respuesta del buque alcanzado para indicar conformidad con el adelantamiento."
@@ -159,7 +159,7 @@
     "reason": "Regla 30: el buque fondeado muestra de día una bola negra y de noche luz o luces blancas todo horizonte, según su eslora."
   },
   "890": {
-    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+    "reason": "Es un buque sin gobierno con arrancada, visto por estribor. Las dos luces rojas verticales indican que está sin gobierno; la verde baja es la luz de costado de estribor y muestra que lleva arrancada. Regla 27."
   },
   "891": {
     "reason": "Regla 35: una larga seguida de tres cortas es la señal de niebla del último buque remolcado, si lleva tripulación."
@@ -192,7 +192,7 @@
     "reason": "Regla 32: una pitada larga dura aproximadamente entre cuatro y seis segundos."
   },
   "900": {
-    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+    "reason": "Es un pesquero que no pesca al arrastre, visto de popa y con arrancada. La roja todo horizonte encima de la blanca identifica esa clase de pesca; la blanca de alcance que aparece más baja indica la vista de popa y que lleva arrancada. Regla 26."
   },
   "901": {
     "reason": "Regla 10: cuando sea necesario cruzar una vía de separación de tráfico, se hace con rumbo lo más perpendicular posible para atravesarla con claridad."
@@ -210,7 +210,7 @@
     "reason": "Regla 30: los buques fondeados de 100 m o más deben iluminar también sus cubiertas con las luces disponibles."
   },
   "907": {
-    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+    "reason": "Es un velero visto de proa. La roja encima de la verde, ambas todo horizonte, es la señal opcional de vela; las luces de costado roja y verde visibles a la vez confirman la vista de proa. Regla 25."
   },
   "908": {
     "reason": "Regla 21: la luz de tope es blanca y cubre 225° hacia proa."
@@ -240,7 +240,7 @@
     "reason": "Regla 18: el buque de propulsión mecánica se mantiene apartado del velero, salvo que rija una regla específica como la de alcance."
   },
   "919": {
-    "reason": "Reglas 21 y 24: un remolcador visto por popa muestra la luz de remolque amarilla sobre su luz blanca de alcance."
+    "reason": "Es un remolcador visto desde popa. La luz amarilla de remolque se sitúa verticalmente por encima de la luz blanca de alcance; desde popa se ven esas dos luces. Regla 24."
   },
   "920": {
     "reason": "Anexo IV del RIPA: un sonido continuo de un aparato de señales de niebla es una señal de socorro."
@@ -265,7 +265,7 @@
     "contrast": "La preferencia usual del velero frente al motor no se aplica frente a este buque."
   },
   "928": {
-    "reason": "Reglas 21 y 24: un remolcador visto por popa muestra la luz de remolque amarilla sobre su luz blanca de alcance."
+    "reason": "Es un remolcador visto desde popa. La luz amarilla de remolque se sitúa verticalmente por encima de la luz blanca de alcance; desde popa se ven esas dos luces. Regla 24."
   },
   "929": {
     "reason": "Regla 34: tres pitadas cortas significan «estoy dando atrás». Una corta indica caída a estribor y dos cortas, a babor."
@@ -289,10 +289,10 @@
     "reason": "Regla 8: sucesivos cambios pequeños resultan poco perceptibles; la alteración de rumbo debe ser suficientemente amplia y clara."
   },
   "938": {
-    "reason": "Regla 14: dos buques de motor en vuelta encontrada alteran ambos el rumbo a estribor para pasar babor con babor."
+    "reason": "El dibujo muestra una embarcación de practicaje en navegación: luz blanca todo horizonte sobre roja, más las luces de costado roja y verde visibles de proa. Regla 14: dos buques de motor en vuelta encontrada alteran ambos el rumbo a estribor para pasar babor con babor."
   },
   "939": {
-    "reason": "Regla 27: la capacidad de maniobra restringida se señala con tres luces todo horizonte en vertical: roja, blanca y roja."
+    "reason": "Es un buque con capacidad de maniobra restringida. Lo identifican tres luces todo horizonte en vertical: roja, blanca y roja. Si además aparecen luces de tope o de costado, indican que lleva arrancada; no cambian el significado del trío rojo-blanco-rojo. Regla 27."
   },
   "943": {
     "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
@@ -301,7 +301,7 @@
     "reason": "Regla 17: en el cruce, el buque que mantiene la derrota conserva inicialmente rumbo y velocidad, sin dejar de vigilar la maniobra del otro."
   },
   "945": {
-    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "reason": "El dibujo muestra un velero visto desde popa: las luces todo horizonte roja sobre verde identifican la vela y la blanca inferior es la luz de alcance. Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
     "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
     "wrong": {
       "a": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
@@ -309,7 +309,7 @@
     }
   },
   "946": {
-    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+    "reason": "Es un buque sin gobierno con arrancada, visto por babor. Las dos luces rojas todo horizonte, una encima de otra, señalan que está sin gobierno; la luz roja más baja es la luz de costado de babor y muestra que lleva arrancada. Regla 27."
   },
   "947": {
     "reason": "Regla 27: la reproducción rígida de la bandera A del Código Internacional de Señales identifica un buque dedicado a operaciones de buceo."
@@ -357,7 +357,7 @@
     "reason": "Regla 26: la marca diurna de pesca se forma con dos conos negros unidos por sus vértices; los aparejos largos pueden requerir una marca adicional."
   },
   "966": {
-    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+    "reason": "Es un velero visto por babor. Las luces todo horizonte roja encima de verde son una combinación opcional propia de un buque de vela; la luz roja de costado inferior indica que lo vemos por babor. No hay luz de tope de motor. Regla 25."
   },
   "967": {
     "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
@@ -378,7 +378,7 @@
     "reason": "Código Internacional de Señales: las banderas N y C juntas comunican peligro y necesidad de ayuda."
   },
   "973": {
-    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+    "reason": "Es un buque sin gobierno con arrancada, visto por babor. Las dos luces rojas todo horizonte, una encima de otra, señalan que está sin gobierno; la luz roja más baja es la luz de costado de babor y muestra que lleva arrancada. Regla 27."
   },
   "975": {
     "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
@@ -468,7 +468,7 @@
     "reason": "Regla 21: la luz de alcance es blanca y se ve en un sector de 135° hacia popa."
   },
   "1004": {
-    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "reason": "El dibujo muestra un velero visto desde popa: las luces todo horizonte roja sobre verde identifican la vela y la blanca inferior es la luz de alcance. Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
     "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
     "wrong": {
       "c": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
@@ -485,7 +485,7 @@
     "reason": "Anexo IV del RIPA: levantar y bajar lenta y repetidamente los brazos extendidos es una señal de socorro."
   },
   "1013": {
-    "reason": "Regla 14: dos buques de motor en vuelta encontrada alteran ambos el rumbo a estribor para pasar babor con babor."
+    "reason": "El dibujo muestra una embarcación de practicaje en navegación: luz blanca todo horizonte sobre roja, más las luces de costado roja y verde visibles de proa. Regla 14: dos buques de motor en vuelta encontrada alteran ambos el rumbo a estribor para pasar babor con babor."
   },
   "1014": {
     "reason": "Regla 20: las marcas diurnas prescritas por el RIPA son negras, para distinguirlas visualmente de las luces nocturnas."
@@ -594,7 +594,7 @@
     "reason": "Regla 20: las marcas diurnas prescritas por el RIPA son negras, para distinguirlas visualmente de las luces nocturnas."
   },
   "1064": {
-    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+    "reason": "Es un velero visto de popa. La roja encima de la verde, ambas todo horizonte, es la señal opcional de vela; la luz blanca inferior es la de alcance, visible desde popa. Regla 25."
   },
   "1066": {
     "reason": "Regla 18: el buque de propulsión mecánica se mantiene apartado del velero, salvo que rija una regla específica como la de alcance."
@@ -603,13 +603,13 @@
     "reason": "Regla 18: el velero se aparta del buque dedicado a la pesca, que tiene menos libertad de maniobra."
   },
   "1070": {
-    "reason": "Regla 15: el buque que nos tiene a su estribor debe apartarse; nosotros somos el buque que mantiene inicialmente rumbo y velocidad."
+    "reason": "El dibujo muestra un buque de propulsión mecánica visto por estribor: dos luces blancas de tope y la luz verde de ese costado. Regla 15: el buque que nos tiene a su estribor debe apartarse; nosotros somos el buque que mantiene inicialmente rumbo y velocidad."
   },
   "1072": {
     "reason": "Regla 34: en un canal angosto, dos largas y dos cortas anuncian que se pretende adelantar por babor del alcanzado."
   },
   "1074": {
-    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+    "reason": "Es un buque sin gobierno con arrancada, visto por babor. Las dos luces rojas todo horizonte, una encima de otra, señalan que está sin gobierno; la luz roja más baja es la luz de costado de babor y muestra que lleva arrancada. Regla 27."
   },
   "1077": {
     "reason": "Regla 3: está sin gobierno el buque que, por una circunstancia excepcional, no puede maniobrar como exige el RIPA y por ello no puede apartarse de otro."
@@ -681,13 +681,13 @@
     "reason": "Regla 26: la marca diurna de pesca se forma con dos conos negros unidos por sus vértices; los aparejos largos pueden requerir una marca adicional."
   },
   "1108": {
-    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+    "reason": "Es un velero visto de proa. La roja encima de la verde, ambas todo horizonte, es la señal opcional de vela; las luces de costado roja y verde visibles a la vez confirman la vista de proa. Regla 25."
   },
   "1109": {
     "reason": "Regla 18: el velero se aparta del buque dedicado a la pesca, que tiene menos libertad de maniobra."
   },
   "1111": {
-    "reason": "Regla 28: el buque restringido por su calado muestra tres luces rojas en vertical o, de día, una marca cilíndrica negra."
+    "reason": "Es un buque restringido por su calado: su señal adicional son tres luces rojas todo horizonte en línea vertical. Es distinta de las dos rojas del buque sin gobierno y de la secuencia roja-blanca-roja de maniobra restringida. Regla 28."
   },
   "1112": {
     "reason": "Regla 30: el buque fondeado muestra de día una bola negra y de noche luz o luces blancas todo horizonte, según su eslora."
@@ -699,7 +699,7 @@
     "reason": "Regla 8: la maniobra de evitación debe ser clara, suficientemente anticipada y perceptible para el otro buque."
   },
   "1115": {
-    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "reason": "El dibujo muestra un velero visto desde popa: las luces todo horizonte roja sobre verde identifican la vela y la blanca inferior es la luz de alcance. Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
     "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
     "wrong": {
       "c": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
@@ -710,7 +710,7 @@
     "reason": "Regla 21: la luz de remolque es amarilla y cubre 135° hacia popa, igual que el sector de una luz de alcance."
   },
   "1118": {
-    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+    "reason": "Es un buque sin gobierno con arrancada, visto por babor. Las dos luces rojas todo horizonte, una encima de otra, señalan que está sin gobierno; la luz roja más baja es la luz de costado de babor y muestra que lleva arrancada. Regla 27."
   },
   "1120": {
     "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
@@ -761,7 +761,7 @@
     "reason": "Regla 30: un buque fondeado de menos de 50 m puede mostrar una luz blanca todo horizonte en el lugar más visible."
   },
   "1138": {
-    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+    "reason": "Es un velero visto de proa. La roja encima de la verde, ambas todo horizonte, es la señal opcional de vela; las luces de costado roja y verde visibles a la vez confirman la vista de proa. Regla 25."
   },
   "1139": {
     "reason": "Regla 17: si el buque obligado a apartarse no actúa, el que mantiene inicialmente la derrota puede maniobrar; si es posible, evita caer a babor hacia el otro."
@@ -779,7 +779,7 @@
     "reason": "Regla 21: la luz de tope es blanca y cubre 225° hacia proa."
   },
   "1146": {
-    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+    "reason": "Es un pesquero de arrastre visto por estribor. La verde todo horizonte sobre la blanca identifica la pesca de arrastre; la otra verde más baja es su luz de costado de estribor, visible cuando lleva arrancada. Regla 26."
   },
   "1147": {
     "reason": "Regla 9: los veleros y los buques de menos de 20 m no deben estorbar a los que solo pueden navegar con seguridad dentro del canal angosto."
@@ -791,7 +791,7 @@
     "reason": "Regla 34: larga, corta, larga, corta es la respuesta del buque alcanzado para indicar conformidad con el adelantamiento."
   },
   "1156": {
-    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+    "reason": "Es un pesquero que no pesca al arrastre, visto de popa y con arrancada. La roja todo horizonte encima de la blanca identifica esa clase de pesca; la blanca de alcance que aparece más baja indica la vista de popa y que lleva arrancada. Regla 26."
   },
   "1157": {
     "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
@@ -812,13 +812,13 @@
     "reason": "Regla 35: un práctico puede añadir cuatro pitadas cortas a la señal que corresponda a su situación; fondeado, se oyen además las señales de campana."
   },
   "1165": {
-    "reason": "Reglas 21 y 24: un remolcador visto por popa muestra la luz de remolque amarilla sobre su luz blanca de alcance."
+    "reason": "Es un remolcador visto desde popa. La luz amarilla de remolque se sitúa verticalmente por encima de la luz blanca de alcance; desde popa se ven esas dos luces. Regla 24."
   },
   "1166": {
     "reason": "Regla 6: la velocidad de seguridad depende de la visibilidad, el tráfico, la maniobrabilidad, el entorno y, si se usa radar, de sus limitaciones."
   },
   "1167": {
-    "reason": "Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
+    "reason": "El dibujo muestra un pesquero de arrastre visto por estribor: verde todo horizonte sobre blanca identifica el arrastre, y la verde inferior es la luz de costado de estribor. Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
   },
   "1169": {
     "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
@@ -853,7 +853,7 @@
     "reason": "Regla 34: una pitada corta indica que el buque cae a estribor; dos cortas indican caída a babor."
   },
   "1184": {
-    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+    "reason": "Es un pesquero de arrastre visto por estribor. La verde todo horizonte sobre la blanca identifica la pesca de arrastre; la otra verde más baja es su luz de costado de estribor, visible cuando lleva arrancada. Regla 26."
   },
   "1186": {
     "reason": "Regla 9: los veleros y los buques de menos de 20 m no deben estorbar a los que solo pueden navegar con seguridad dentro del canal angosto."
@@ -865,10 +865,10 @@
     "reason": "Regla 3: está sin gobierno el buque que, por una circunstancia excepcional, no puede maniobrar como exige el RIPA y por ello no puede apartarse de otro."
   },
   "1194": {
-    "reason": "Regla 24: por proa se reconoce el remolque por dos luces de tope blancas superpuestas (tres si el remolque supera 200 m); además se ven las luces de costado."
+    "reason": "Es un remolcador visto de proa: las dos luces blancas de tope en línea vertical indican que remolca; las luces verde y roja de costado se ven juntas desde proa. Tres blancas de tope indicarían remolque de más de 200 m. Regla 24."
   },
   "1195": {
-    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+    "reason": "Es un pesquero de arrastre. Sus luces distintivas son verde todo horizonte sobre blanca todo horizonte; el pesquero que no pesca al arrastre lleva roja sobre blanca. Regla 26."
   },
   "1196": {
     "reason": "Regla 18: debemos apartarnos del buque con capacidad de maniobra restringida, que realiza una tarea que limita sus movimientos."
@@ -883,7 +883,7 @@
     }
   },
   "1199": {
-    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "reason": "El dibujo muestra un velero visto desde popa: las luces todo horizonte roja sobre verde identifican la vela y la blanca inferior es la luz de alcance. Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
     "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
     "wrong": {
       "c": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
@@ -931,7 +931,7 @@
     }
   },
   "1218": {
-    "reason": "Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
+    "reason": "El dibujo muestra un pesquero que no es de arrastre visto por estribor: roja todo horizonte sobre blanca identifica esa modalidad de pesca; la verde inferior es la luz de costado de estribor. Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
   },
   "1223": {
     "reason": "Regla 21: cada luz de costado cubre 112,5° desde la proa hasta 22,5° a popa del través."
@@ -962,7 +962,7 @@
     }
   },
   "1237": {
-    "reason": "Regla 27: la capacidad de maniobra restringida se señala con tres luces todo horizonte en vertical: roja, blanca y roja."
+    "reason": "Es un buque con capacidad de maniobra restringida. Lo identifican tres luces todo horizonte en vertical: roja, blanca y roja. Si además aparecen luces de tope o de costado, indican que lleva arrancada; no cambian el significado del trío rojo-blanco-rojo. Regla 27."
   },
   "1240": {
     "reason": "Regla 7: una demora que no cambia de forma apreciable mientras disminuye la distancia indica riesgo de abordaje; incluso una demora variable no lo descarta por completo."
@@ -976,7 +976,7 @@
     }
   },
   "1242": {
-    "reason": "Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
+    "reason": "El dibujo muestra un pesquero que no es de arrastre visto por estribor: roja todo horizonte sobre blanca identifica esa modalidad de pesca; la verde inferior es la luz de costado de estribor. Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
   },
   "1244": {
     "reason": "Regla 3: estar en navegación significa no estar fondeado, amarrado a tierra ni varado; no exige llevar arrancada."
@@ -985,13 +985,13 @@
     "reason": "Reglas 15 y 17: entre dos buques de motor que se cruzan, el que ve al otro por estribor se aparta; el otro mantiene inicialmente rumbo y velocidad. Si el primero no actúa, este último puede tener que maniobrar para evitar el abordaje."
   },
   "1248": {
-    "reason": "Regla 15: el buque que nos tiene a su estribor debe apartarse; nosotros somos el buque que mantiene inicialmente rumbo y velocidad."
+    "reason": "El dibujo muestra un buque de propulsión mecánica visto por estribor: dos luces blancas de tope y la luz verde de ese costado. Regla 15: el buque que nos tiene a su estribor debe apartarse; nosotros somos el buque que mantiene inicialmente rumbo y velocidad."
   },
   "1249": {
     "reason": "Anexo IV del RIPA: levantar y bajar lenta y repetidamente los brazos extendidos es una señal de socorro."
   },
   "1250": {
-    "reason": "Regla 27: la capacidad de maniobra restringida se señala con tres luces todo horizonte en vertical: roja, blanca y roja."
+    "reason": "Es un buque con capacidad de maniobra restringida. Lo identifican tres luces todo horizonte en vertical: roja, blanca y roja. Si además aparecen luces de tope o de costado, indican que lleva arrancada; no cambian el significado del trío rojo-blanco-rojo. Regla 27."
   },
   "1251": {
     "reason": "Regla 35: una larga seguida de tres cortas es la señal de niebla del último buque remolcado, si lleva tripulación."
@@ -1004,7 +1004,7 @@
     }
   },
   "1253": {
-    "reason": "Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
+    "reason": "El dibujo muestra un pesquero que no es de arrastre visto por estribor: roja todo horizonte sobre blanca identifica esa modalidad de pesca; la verde inferior es la luz de costado de estribor. Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
   },
   "1257": {
     "reason": "Regla 8: hay que comprobar que la maniobra funciona hasta que el otro buque haya pasado y quede libre de peligro."
@@ -1020,10 +1020,10 @@
     }
   },
   "1261": {
-    "reason": "Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
+    "reason": "El dibujo muestra un pesquero que no es de arrastre visto por estribor: roja todo horizonte sobre blanca identifica esa modalidad de pesca; la verde inferior es la luz de costado de estribor. Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
   },
   "1262": {
-    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+    "reason": "Es un pesquero de arrastre visto de proa. La verde todo horizonte sobre la blanca identifica el arrastre. La otra luz blanca superior del dibujo corresponde a la luz de tope a popa y más alta que la verde, permitida en un arrastrero de menos de 50 m y obligatoria si tiene 50 m o más; por eso esas luces no prueban por sí solas su eslora. Regla 26."
   },
   "1263": {
     "reason": "Anexo IV del RIPA: levantar y bajar lenta y repetidamente los brazos extendidos es una señal de socorro."
@@ -1035,7 +1035,7 @@
     }
   },
   "1266": {
-    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "reason": "El dibujo muestra un velero visto desde popa: las luces todo horizonte roja sobre verde identifican la vela y la blanca inferior es la luz de alcance. Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
     "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
     "wrong": {
       "d": "El buque alcanzado mantiene su derrota; quien se aproxima desde atrás debe apartarse."
@@ -1051,7 +1051,7 @@
     "reason": "Regla 34: larga, corta, larga, corta es la respuesta del buque alcanzado para indicar conformidad con el adelantamiento."
   },
   "1272": {
-    "reason": "Regla 24: por proa se reconoce el remolque por dos luces de tope blancas superpuestas (tres si el remolque supera 200 m); además se ven las luces de costado."
+    "reason": "Es un remolcador visto de proa: las dos luces blancas de tope en línea vertical indican que remolca; las luces verde y roja de costado se ven juntas desde proa. Tres blancas de tope indicarían remolque de más de 200 m. Regla 24."
   },
   "1276": {
     "reason": "Regla 6: todos los buques deben navegar en todo momento a velocidad de seguridad para poder maniobrar y detenerse a tiempo."
@@ -1071,13 +1071,13 @@
     "reason": "Regla 34: al menos cinco pitadas cortas y rápidas expresan duda sobre las intenciones o maniobras del otro buque."
   },
   "1282": {
-    "reason": "Regla 27: la capacidad de maniobra restringida se señala con tres luces todo horizonte en vertical: roja, blanca y roja."
+    "reason": "Es un buque con capacidad de maniobra restringida. Lo identifican tres luces todo horizonte en vertical: roja, blanca y roja. Si además aparecen luces de tope o de costado, indican que lleva arrancada; no cambian el significado del trío rojo-blanco-rojo. Regla 27."
   },
   "1283": {
     "reason": "Regla 27: dos bolas negras en vertical son la marca diurna de un buque sin gobierno."
   },
   "1284": {
-    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+    "reason": "Es un pesquero que no pesca al arrastre, visto de proa. La roja todo horizonte sobre la blanca identifica esa actividad; se ven ambas luces de costado, verde y roja, propias de la vista de proa con arrancada. Regla 26."
   },
   "1286": {
     "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
@@ -1100,16 +1100,16 @@
     }
   },
   "1291": {
-    "reason": "Regla 24: por proa se reconoce el remolque por dos luces de tope blancas superpuestas (tres si el remolque supera 200 m); además se ven las luces de costado."
+    "reason": "Es un remolcador visto de proa: las dos luces blancas de tope en línea vertical indican que remolca; las luces verde y roja de costado se ven juntas desde proa. Tres blancas de tope indicarían remolque de más de 200 m. Regla 24."
   },
   "1293": {
     "reason": "Regla 21: la luz de alcance está hacia popa, es blanca y cubre 135°."
   },
   "1295": {
-    "reason": "Regla 29: el buque en servicio de practicaje muestra blanca sobre roja todo horizonte; si está fondeado añade las luces de fondeo."
+    "reason": "Es una embarcación de practicaje fondeada. La luz blanca todo horizonte sobre la roja identifica el servicio de practicaje; la otra luz blanca del dibujo es la luz de fondeo. No se ven luces de costado de un buque en navegación. Regla 29."
   },
   "1297": {
-    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+    "reason": "Es un buque sin gobierno con arrancada, visto por babor. Las dos luces rojas todo horizonte, una encima de otra, señalan que está sin gobierno; la luz roja más baja es la luz de costado de babor y muestra que lleva arrancada. Regla 27."
   },
   "1298": {
     "reason": "Regla 17: si el buque obligado a apartarse no actúa, el que mantiene inicialmente la derrota puede maniobrar; si es posible, evita caer a babor hacia el otro."
@@ -1131,7 +1131,7 @@
     "reason": "Regla 34: tres pitadas cortas significan «estoy dando atrás». Una corta indica caída a estribor y dos cortas, a babor."
   },
   "1310": {
-    "reason": "Regla 27: la capacidad de maniobra restringida se señala con tres luces todo horizonte en vertical: roja, blanca y roja."
+    "reason": "Es un buque con capacidad de maniobra restringida. Lo identifican tres luces todo horizonte en vertical: roja, blanca y roja. Si además aparecen luces de tope o de costado, indican que lleva arrancada; no cambian el significado del trío rojo-blanco-rojo. Regla 27."
   },
   "1311": {
     "reason": "Regla 27: dos bolas negras en vertical son la marca diurna de un buque sin gobierno."
@@ -1140,7 +1140,7 @@
     "reason": "Anexo IV del RIPA: levantar y bajar lenta y repetidamente los brazos extendidos es una señal de socorro."
   },
   "1313": {
-    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+    "reason": "Es un velero visto de popa. La roja encima de la verde, ambas todo horizonte, es la señal opcional de vela; la luz blanca inferior es la de alcance, visible desde popa. Regla 25."
   },
   "1315": {
     "reason": "Regla 3: una embarcación que navega simultáneamente a vela y con motor se considera buque de propulsión mecánica."
@@ -1662,5 +1662,119 @@
   },
   "1552": {
     "reason": "La embarcación suele ofrecer más protección y visibilidad que el agua; se abandona cuando ya no puede mantener segura a la tripulación."
+  },
+  "915": {
+    "reason": "Es un buque sin gobierno con arrancada: las dos luces rojas todo horizonte superpuestas son su señal distintiva. La luz de costado que aparece más baja indica que lleva arrancada. «Sin gobierno» significa que una circunstancia excepcional le impide maniobrar como exige el RIPA. Regla 27."
+  },
+  "999": {
+    "reason": "Es un buque sin gobierno con arrancada: las dos luces rojas todo horizonte superpuestas son su señal distintiva. La luz de costado que aparece más baja indica que lleva arrancada. «Sin gobierno» significa que una circunstancia excepcional le impide maniobrar como exige el RIPA. Regla 27."
+  },
+  "1105": {
+    "reason": "Es un buque sin gobierno con arrancada: las dos luces rojas todo horizonte superpuestas son su señal distintiva. La luz de costado que aparece más baja indica que lleva arrancada. «Sin gobierno» significa que una circunstancia excepcional le impide maniobrar como exige el RIPA. Regla 27."
+  },
+  "1132": {
+    "reason": "Es un buque sin gobierno con arrancada: las dos luces rojas todo horizonte superpuestas son su señal distintiva. La luz de costado que aparece más baja indica que lleva arrancada. «Sin gobierno» significa que una circunstancia excepcional le impide maniobrar como exige el RIPA. Regla 27."
+  },
+  "1219": {
+    "reason": "Es un remolcador visto por babor. Las dos luces blancas de tope verticales indican remolque y la luz roja de costado indica que se ve su lado de babor. Regla 24."
+  },
+  "1254": {
+    "reason": "Es un remolcador visto por estribor. Las dos luces blancas de tope verticales indican remolque y la luz verde de costado corresponde al lado de estribor. No se muestran tres blancas, por lo que el dibujo no indica un remolque de más de 200 m. Regla 24."
+  },
+  "1150": {
+    "reason": "Es un buque de propulsión mecánica visto por babor: la luz blanca alta es de tope, la roja baja es la luz de costado de babor y la otra blanca corresponde a una segunda luz de tope situada más a popa y más alta. Regla 23."
+  },
+  "1071": {
+    "reason": "La blanca superior es una luz de tope: se muestra en el eje longitudinal y por encima de la luz de costado. En el dibujo la verde inferior es la luz de estribor de un buque de propulsión mecánica visto por ese costado; la otra blanca puede ser la segunda luz de tope. Reglas 21 y 23."
+  },
+  "1116": {
+    "reason": "La blanca superior es una luz de tope: se muestra en el eje longitudinal y por encima de la luz de costado. En el dibujo la verde inferior es la luz de estribor de un buque de propulsión mecánica visto por ese costado; la otra blanca puede ser la segunda luz de tope. Reglas 21 y 23."
+  },
+  "878": {
+    "reason": "El dibujo muestra un buque de propulsión mecánica visto por babor: dos luces blancas de tope y una luz roja de costado. Al verlo por su babor, nos cruza desde nuestro estribor; con riesgo de abordaje debemos maniobrar nosotros y evitar cruzarle por proa. Reglas 15 y 16."
+  },
+  "1176": {
+    "reason": "El dibujo muestra un buque de propulsión mecánica visto por babor: dos luces blancas de tope y una luz roja de costado. Al verlo por su babor, nos cruza desde nuestro estribor; con riesgo de abordaje debemos maniobrar nosotros y evitar cruzarle por proa. Reglas 15 y 16."
+  },
+  "1222": {
+    "reason": "El dibujo muestra un buque de propulsión mecánica visto por babor: dos luces blancas de tope y una luz roja de costado. Al verlo por su babor, nos cruza desde nuestro estribor; con riesgo de abordaje debemos maniobrar nosotros y evitar cruzarle por proa. Reglas 15 y 16."
+  },
+  "1131": {
+    "reason": "Es un buque de propulsión mecánica visto por babor: la blanca superior es de tope y la roja inferior de costado. Nos cruza de estribor a babor, de modo que debemos apartarnos nosotros. Reglas 15 y 16."
+  },
+  "1028": {
+    "reason": "Las luces blancas de tope y la roja de costado identifican un buque de propulsión mecánica visto por babor. En el encuentro representado, caer a estribor es la maniobra indicada para evitar el abordaje; debe ser clara y realizada con tiempo. Reglas 8, 14 y 15, según el encuentro."
+  },
+  "1123": {
+    "reason": "Las luces blancas de tope y la roja de costado identifican un buque de propulsión mecánica visto por babor. En el encuentro representado, caer a estribor es la maniobra indicada para evitar el abordaje; debe ser clara y realizada con tiempo. Reglas 8, 14 y 15, según el encuentro."
+  },
+  "1178": {
+    "reason": "Las luces blancas de tope y la roja de costado identifican un buque de propulsión mecánica visto por babor. En el encuentro representado, caer a estribor es la maniobra indicada para evitar el abordaje; debe ser clara y realizada con tiempo. Reglas 8, 14 y 15, según el encuentro."
+  },
+  "1208": {
+    "reason": "Las luces blancas de tope y la roja de costado identifican un buque de propulsión mecánica visto por babor. En el encuentro representado, caer a estribor es la maniobra indicada para evitar el abordaje; debe ser clara y realizada con tiempo. Reglas 8, 14 y 15, según el encuentro."
+  },
+  "902": {
+    "reason": "Es un buque sin gobierno que está en navegación: las dos luces rojas todo horizonte en vertical lo identifican. Al verse únicamente esas dos luces, sin luces de costado ni de alcance, no se muestra arrancada. Estar en navegación no exige tener arrancada; significa que no está fondeado, amarrado ni varado. Reglas 3 y 27."
+  },
+  "1246": {
+    "reason": "Es un buque sin gobierno que está en navegación: las dos luces rojas todo horizonte en vertical lo identifican. Al verse únicamente esas dos luces, sin luces de costado ni de alcance, no se muestra arrancada. Estar en navegación no exige tener arrancada; significa que no está fondeado, amarrado ni varado. Reglas 3 y 27."
+  },
+  "1264": {
+    "reason": "Es un buque sin gobierno que está en navegación: las dos luces rojas todo horizonte en vertical lo identifican. Al verse únicamente esas dos luces, sin luces de costado ni de alcance, no se muestra arrancada. Estar en navegación no exige tener arrancada; significa que no está fondeado, amarrado ni varado. Reglas 3 y 27."
+  },
+  "1301": {
+    "reason": "Es un buque sin gobierno que está en navegación: las dos luces rojas todo horizonte en vertical lo identifican. Al verse únicamente esas dos luces, sin luces de costado ni de alcance, no se muestra arrancada. Estar en navegación no exige tener arrancada; significa que no está fondeado, amarrado ni varado. Reglas 3 y 27."
+  },
+  "955": {
+    "reason": "Es un buque fondeado de 120 m. Por superar 50 m muestra dos luces blancas todo horizonte, una a proa y otra a popa; por alcanzar 100 m debe usar además las luces de trabajo o equivalentes disponibles para iluminar las cubiertas. Regla 30."
+  },
+  "974": {
+    "reason": "La luz blanca superior del dibujo es una luz de tope de un buque de propulsión mecánica; debajo se ve la luz verde de costado y otra blanca de tope. Las luces de tope cubren 225°, desde proa hasta 22,5° a popa del través por cada banda. Regla 21."
+  },
+  "1027": {
+    "reason": "El dibujo corresponde a un pesquero de arrastre: la luz verde todo horizonte encima de la blanca lo identifica. Al mostrar únicamente esas luces y no luces de costado ni de alcance, no indica arrancada. Regla 26."
+  },
+  "1296": {
+    "reason": "El dibujo corresponde a un pesquero de arrastre: la luz verde todo horizonte encima de la blanca lo identifica. Al mostrar únicamente esas luces y no luces de costado ni de alcance, no indica arrancada. Regla 26."
+  },
+  "1030": {
+    "reason": "Las luces blancas de tope y la verde de costado muestran un buque de propulsión mecánica visto por estribor. Si su demora no cambia y hay riesgo de abordaje, se debe aplicar la regla de cruce: al verlo por nuestro babor, mantenemos rumbo y velocidad, vigilando la evolución del encuentro. Reglas 15 y 17."
+  },
+  "1046": {
+    "reason": "Es un buque varado: exhibe dos luces rojas todo horizonte en vertical además de una luz blanca de fondeo. Esa blanca adicional distingue el varado del buque sin gobierno, que también puede mostrar dos rojas. Debemos evitarlo y maniobrar para mantenernos apartados. Regla 30."
+  },
+  "1119": {
+    "reason": "Es un buque varado: exhibe dos luces rojas todo horizonte en vertical además de una luz blanca de fondeo. Esa blanca adicional distingue el varado del buque sin gobierno, que también puede mostrar dos rojas. Debemos evitarlo y maniobrar para mantenernos apartados. Regla 30."
+  },
+  "1062": {
+    "reason": "Es un buque con capacidad de maniobra restringida visto desde popa: las tres luces todo horizonte roja, blanca y roja en vertical lo identifican. La blanca inferior, separada de ese grupo, es la luz de alcance e ilumina 135° hacia popa. Reglas 21 y 27."
+  },
+  "1085": {
+    "reason": "Es una draga con capacidad de maniobra restringida: el grupo rojo-blanco-rojo vertical indica esa condición. Las dos luces rojas verticales de un lado marcan el costado obstruido y las dos verdes del otro, el costado por el que se puede pasar. En el dibujo el paso queda por nuestro babor. Regla 27."
+  },
+  "1155": {
+    "reason": "Es un buque fondeado que, por su eslora, lleva dos luces blancas todo horizonte. La de proa debe estar más alta que la de popa; por eso la blanca superior del dibujo corresponde a proa. Regla 30."
+  },
+  "1158": {
+    "reason": "El dibujo presenta un buque de propulsión mecánica visto por estribor: se ven dos luces blancas de tope y la verde de costado. En el cruce mostrado, nuestra embarcación es la que mantiene el rumbo y la velocidad, mientras vigila si el otro cumple su obligación de apartarse. Reglas 15 y 17."
+  },
+  "1160": {
+    "reason": "La blanca sobre la roja todo horizonte identifica una embarcación de practicaje en servicio; las luces de costado verde y roja indican que lleva arrancada y se ve de proa. El servicio de practicaje no le concede prioridad especial por sí solo: se aplican las reglas del encuentro, en el que ambos deben actuar. Reglas 14 y 29."
+  },
+  "1192": {
+    "reason": "El dibujo muestra un velero: luces todo horizonte roja sobre verde y luces de costado verde y roja. Es la combinación opcional de luces de una embarcación a vela; en el encuentro se aplica la regla específica entre veleros según la banda por la que reciben el viento. Regla 12 y regla 25."
+  },
+  "1229": {
+    "reason": "El dibujo muestra un velero: luces todo horizonte roja sobre verde y luces de costado verde y roja. Es la combinación opcional de luces de una embarcación a vela; en el encuentro se aplica la regla específica entre veleros según la banda por la que reciben el viento. Regla 12 y regla 25."
+  },
+  "1278": {
+    "reason": "El dibujo muestra un velero: luces todo horizonte roja sobre verde y luces de costado verde y roja. Es la combinación opcional de luces de una embarcación a vela; en el encuentro se aplica la regla específica entre veleros según la banda por la que reciben el viento. Regla 12 y regla 25."
+  },
+  "1210": {
+    "reason": "La luz de alcance es la luz blanca de popa. Cubre un arco de 135°, repartido en 67,5° a cada banda desde popa. Regla 21."
+  },
+  "1230": {
+    "reason": "Es un buque varado: dos luces rojas todo horizonte verticales y una luz blanca de fondeo. Esta última también es todo horizonte, por lo que su arco de visibilidad es de 360°. Reglas 21 y 30."
   }
 }

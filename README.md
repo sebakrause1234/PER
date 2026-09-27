@@ -22,13 +22,13 @@ No requiere instalación, compilación, servidor de aplicaciones ni servicios ex
 - `styles.css`: diseño adaptable.
 - `app.js`: modos, corrección y progreso en `localStorage`.
 - `questions.json`: banco de preguntas.
-- `explanations.json`: explicaciones revisadas para 492 preguntas de RIPA, Maniobra y Emergencias; cuando no hay una justificación segura, la web lo indica después de responder.
+- `explanations.json`: explicaciones para 530 preguntas de RIPA, Maniobra y Emergencias; cuando no hay una justificación segura, la web lo indica después de responder.
 - `figures/`: recortes de preguntas con figuras o esquemas.
 - `extraction-report.json`: conteos y preguntas que requieren revisión.
 
 El progreso se guarda solo en el navegador y se puede borrar desde la pantalla inicial.
 
-Las explicaciones aparecen únicamente después de comprobar una respuesta. En algunos casos también explican por qué la opción elegida no corresponde. Las referencias principales son el [RIPA publicado en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-1977-15605), las [recomendaciones de Salvamento Marítimo](https://www.salvamentomaritimo.es/mejora-tu-seguridad/actuar-en-emergencias) y la [clasificación de incendios del INSST](https://www.insst.es/documentacion/colecciones-tecnicas/ntp-notas-tecnicas-de-prevencion). Las preguntas con figuras que no permiten justificar la respuesta sin revisar la imagen de forma individual se dejaron sin explicación.
+Las explicaciones aparecen únicamente después de comprobar una respuesta. En algunos casos también explican por qué la opción elegida no corresponde. Las referencias principales son el [RIPA publicado en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-1977-15605), las [recomendaciones de Salvamento Marítimo](https://www.salvamentomaritimo.es/mejora-tu-seguridad/actuar-en-emergencias) y la [clasificación de incendios del INSST](https://www.insst.es/documentacion/colecciones-tecnicas/ntp-notas-tecnicas-de-prevencion). En las preguntas de RIPA sobre luces con dibujos se identifica la embarcación y la combinación de luces que permite reconocerla.
 
 **Importante al publicar:** se deben subir todos los archivos de `figures/`. Si falta uno, la web indica el nombre del archivo ausente junto a la pregunta. Para actualizar un repositorio existente, copiá el contenido del ZIP de actualización sobre la carpeta del proyecto y subí los archivos modificados.
 
