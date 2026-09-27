@@ -1,0 +1,1666 @@
+{
+  "836": {
+    "reason": "Regla 12: quien recibe el viento por babor debe apartarse si no puede determinar con seguridad la banda por la que recibe el viento el velero a barlovento."
+  },
+  "837": {
+    "reason": "Regla 30: una embarcación varada añade a las señales de fondeo dos luces rojas en vertical o, de día, tres bolas negras en vertical."
+  },
+  "838": {
+    "reason": "Regla 15: en un cruce con riesgo de abordaje entre buques de motor, el que ve al otro por estribor se mantiene apartado."
+  },
+  "839": {
+    "reason": "Código Internacional de Señales: las banderas N y C juntas comunican peligro y necesidad de ayuda."
+  },
+  "840": {
+    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
+    "wrong": {
+      "b": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
+      "d": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros."
+    }
+  },
+  "841": {
+    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+  },
+  "842": {
+    "reason": "Regla 18: un velero en navegación debe mantenerse apartado de un buque dedicado a la pesca.",
+    "contrast": "La preferencia usual del velero frente al motor no se aplica frente a este buque."
+  },
+  "844": {
+    "reason": "Regla 23: un buque de motor de menos de 12 m puede usar una luz blanca todo horizonte junto con las luces de costado."
+  },
+  "845": {
+    "reason": "Reglas 3 y 18: un velero que también utiliza el motor se considera de propulsión mecánica y debe mantenerse apartado de un velero."
+  },
+  "846": {
+    "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
+  },
+  "847": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "b": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor.",
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "848": {
+    "reason": "Reglas 15 y 17: entre dos buques de motor que se cruzan, el que ve al otro por estribor se aparta; el otro mantiene inicialmente rumbo y velocidad. Si el primero no actúa, este último puede tener que maniobrar para evitar el abordaje."
+  },
+  "849": {
+    "reason": "Regla 3: estar en navegación significa no estar fondeado, amarrado a tierra ni varado; no exige llevar arrancada."
+  },
+  "850": {
+    "reason": "Regla 30: un buque fondeado de menos de 50 m puede mostrar una luz blanca todo horizonte en el lugar más visible."
+  },
+  "851": {
+    "reason": "Regla 8: hay que comprobar que la maniobra funciona hasta que el otro buque haya pasado y quede libre de peligro."
+  },
+  "852": {
+    "reason": "Regla 3: a efectos del RIPA, eslora significa la eslora máxima del buque."
+  },
+  "853": {
+    "reason": "Regla 21: la luz de alcance está hacia popa, es blanca y cubre 135°."
+  },
+  "854": {
+    "reason": "Regla 8: varios cambios pequeños pueden ser difíciles de percibir; si hay espacio, un cambio amplio y decidido facilita advertir la maniobra."
+  },
+  "856": {
+    "reason": "Regla 30: un buque fondeado de menos de 50 m puede mostrar una luz blanca todo horizonte en el lugar más visible."
+  },
+  "857": {
+    "reason": "Reglas 15 y 17: entre dos buques de motor que se cruzan, el que ve al otro por estribor se aparta; el otro mantiene inicialmente rumbo y velocidad. Si el primero no actúa, este último puede tener que maniobrar para evitar el abordaje."
+  },
+  "858": {
+    "reason": "Regla 24: el remolcador muestra una marca bicónica cuando la longitud del remolque supera 200 m."
+  },
+  "859": {
+    "reason": "Regla 8: la maniobra de evitación debe ser clara, suficientemente anticipada y perceptible para el otro buque."
+  },
+  "861": {
+    "reason": "Regla 3: un buque está en navegación si no está fondeado, amarrado a tierra ni varado, aunque no lleve arrancada."
+  },
+  "862": {
+    "reason": "Reglas 21 y 24: un remolcador visto por popa muestra la luz de remolque amarilla sobre su luz blanca de alcance."
+  },
+  "863": {
+    "reason": "Regla 17: el buque que debe mantener su derrota conserva inicialmente rumbo y velocidad, pero vigila y actúa si el otro no maniobra y existe riesgo."
+  },
+  "865": {
+    "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
+  },
+  "866": {
+    "reason": "Regla 30: los buques fondeados de 100 m o más deben iluminar también sus cubiertas con las luces disponibles."
+  },
+  "867": {
+    "reason": "Regla 34: en un canal angosto, dos largas y una corta anuncian que se pretende adelantar por estribor del alcanzado."
+  },
+  "868": {
+    "reason": "Regla 12: con viento por bandas distintas, el velero que lo recibe por babor se mantiene apartado del que lo recibe por estribor.",
+    "wrong": {
+      "d": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "869": {
+    "reason": "Regla 28: un buque restringido por su calado puede exhibir tres luces rojas todo horizonte en vertical."
+  },
+  "870": {
+    "reason": "Regla 24: por proa se reconoce el remolque por dos luces de tope blancas superpuestas (tres si el remolque supera 200 m); además se ven las luces de costado."
+  },
+  "871": {
+    "reason": "Regla 18: el velero debe mantenerse apartado del buque sin gobierno, que no puede maniobrar como exige el reglamento."
+  },
+  "872": {
+    "reason": "Regla 30: un buque fondeado de menos de 50 m puede mostrar una luz blanca todo horizonte en el lugar más visible."
+  },
+  "873": {
+    "reason": "Regla 12: con viento por bandas distintas, el velero que lo recibe por babor se mantiene apartado del que lo recibe por estribor.",
+    "wrong": {
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "875": {
+    "reason": "Regla 18: el velero debe mantenerse apartado del buque sin gobierno, que no puede maniobrar como exige el reglamento."
+  },
+  "876": {
+    "reason": "Regla 18: un velero en navegación debe mantenerse apartado de un buque dedicado a la pesca.",
+    "contrast": "La preferencia usual del velero frente al motor no se aplica frente a este buque."
+  },
+  "877": {
+    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+  },
+  "879": {
+    "reason": "Regla 34: larga, corta, larga, corta es la respuesta del buque alcanzado para indicar conformidad con el adelantamiento."
+  },
+  "880": {
+    "reason": "Regla 34: en un canal angosto, dos largas y una corta anuncian que se pretende adelantar por estribor del alcanzado."
+  },
+  "881": {
+    "reason": "Regla 25: si navega a vela y motor a la vez, debe mostrar de día un cono negro con el vértice hacia abajo."
+  },
+  "882": {
+    "reason": "Anexo IV del RIPA: un sonido continuo de un aparato de señales de niebla es una señal de socorro."
+  },
+  "883": {
+    "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
+  },
+  "884": {
+    "reason": "Regla 15: en un cruce con riesgo de abordaje entre buques de motor, el que ve al otro por estribor se mantiene apartado."
+  },
+  "885": {
+    "reason": "Regla 18: el velero se aparta del buque dedicado a la pesca, que tiene menos libertad de maniobra."
+  },
+  "886": {
+    "reason": "Regla 21: la luz de remolque es amarilla y cubre 135° hacia popa, igual que el sector de una luz de alcance."
+  },
+  "888": {
+    "reason": "Regla 18: el velero debe mantenerse apartado de un buque con capacidad de maniobra restringida."
+  },
+  "889": {
+    "reason": "Regla 30: el buque fondeado muestra de día una bola negra y de noche luz o luces blancas todo horizonte, según su eslora."
+  },
+  "890": {
+    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+  },
+  "891": {
+    "reason": "Regla 35: una larga seguida de tres cortas es la señal de niebla del último buque remolcado, si lleva tripulación."
+  },
+  "892": {
+    "reason": "Regla 10: al cruzar una vía de separación de tráfico se lleva un rumbo lo más perpendicular posible; los veleros y buques pequeños no deben estorbar a los de motor en la vía."
+  },
+  "893": {
+    "reason": "Regla 12: si los dos veleros reciben el viento por la misma banda, el de barlovento se mantiene apartado del de sotavento.",
+    "wrong": {
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "894": {
+    "reason": "Regla 15: en un cruce con riesgo de abordaje entre buques de motor, el que ve al otro por estribor se mantiene apartado."
+  },
+  "895": {
+    "reason": "Regla 18: el velero se aparta del buque dedicado a la pesca, que tiene menos libertad de maniobra."
+  },
+  "896": {
+    "reason": "Regla 21: la luz de remolque es amarilla y cubre 135° hacia popa, igual que el sector de una luz de alcance."
+  },
+  "897": {
+    "reason": "Reglas 3 y 18: un velero que también utiliza el motor se considera de propulsión mecánica y debe mantenerse apartado de un velero."
+  },
+  "898": {
+    "reason": "Regla 26: la marca diurna de pesca se forma con dos conos negros unidos por sus vértices; los aparejos largos pueden requerir una marca adicional."
+  },
+  "899": {
+    "reason": "Regla 32: una pitada larga dura aproximadamente entre cuatro y seis segundos."
+  },
+  "900": {
+    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+  },
+  "901": {
+    "reason": "Regla 10: cuando sea necesario cruzar una vía de separación de tráfico, se hace con rumbo lo más perpendicular posible para atravesarla con claridad."
+  },
+  "903": {
+    "reason": "Regla 34: una pitada corta indica que el buque cae a estribor; dos cortas indican caída a babor."
+  },
+  "904": {
+    "reason": "Regla 34: tres pitadas cortas significan «estoy dando atrás». Una corta indica caída a estribor y dos cortas, a babor."
+  },
+  "905": {
+    "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
+  },
+  "906": {
+    "reason": "Regla 30: los buques fondeados de 100 m o más deben iluminar también sus cubiertas con las luces disponibles."
+  },
+  "907": {
+    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+  },
+  "908": {
+    "reason": "Regla 21: la luz de tope es blanca y cubre 225° hacia proa."
+  },
+  "909": {
+    "reason": "Regla 35: dos pitadas largas separadas por unos dos segundos identifican a un buque de motor en navegación, parado y sin arrancada, con visibilidad reducida."
+  },
+  "911": {
+    "reason": "Regla 13: el sector de alcance comienza a más de 22,5° a popa del través; de noche se ve la luz de alcance, pero ninguna luz de costado."
+  },
+  "912": {
+    "reason": "Regla 3: está sin gobierno el buque que, por una circunstancia excepcional, no puede maniobrar como exige el RIPA y por ello no puede apartarse de otro."
+  },
+  "913": {
+    "reason": "Regla 24: el remolcador muestra una marca bicónica cuando la longitud del remolque supera 200 m."
+  },
+  "914": {
+    "reason": "Regla 34: en un canal angosto, dos largas y dos cortas anuncian que se pretende adelantar por babor del alcanzado."
+  },
+  "916": {
+    "reason": "Regla 3: está sin gobierno el buque que, por una circunstancia excepcional, no puede maniobrar como exige el RIPA y por ello no puede apartarse de otro."
+  },
+  "917": {
+    "reason": "Regla 34: tres pitadas cortas significan «estoy dando atrás». Una corta indica caída a estribor y dos cortas, a babor."
+  },
+  "918": {
+    "reason": "Regla 18: el buque de propulsión mecánica se mantiene apartado del velero, salvo que rija una regla específica como la de alcance."
+  },
+  "919": {
+    "reason": "Reglas 21 y 24: un remolcador visto por popa muestra la luz de remolque amarilla sobre su luz blanca de alcance."
+  },
+  "920": {
+    "reason": "Anexo IV del RIPA: un sonido continuo de un aparato de señales de niebla es una señal de socorro."
+  },
+  "921": {
+    "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
+  },
+  "922": {
+    "reason": "Regla 3: un buque está en navegación si no está fondeado, amarrado a tierra ni varado, aunque no lleve arrancada."
+  },
+  "923": {
+    "reason": "Regla 21: cada luz de costado cubre 112,5° desde la proa hasta 22,5° a popa del través."
+  },
+  "924": {
+    "reason": "Regla 6: la velocidad de seguridad depende de la visibilidad, el tráfico, la maniobrabilidad, el entorno y, si se usa radar, de sus limitaciones."
+  },
+  "926": {
+    "reason": "Regla 17: en el cruce, el buque que mantiene la derrota conserva inicialmente rumbo y velocidad, sin dejar de vigilar la maniobra del otro."
+  },
+  "927": {
+    "reason": "Regla 18: un velero en navegación debe mantenerse apartado de un buque dedicado a la pesca.",
+    "contrast": "La preferencia usual del velero frente al motor no se aplica frente a este buque."
+  },
+  "928": {
+    "reason": "Reglas 21 y 24: un remolcador visto por popa muestra la luz de remolque amarilla sobre su luz blanca de alcance."
+  },
+  "929": {
+    "reason": "Regla 34: tres pitadas cortas significan «estoy dando atrás». Una corta indica caída a estribor y dos cortas, a babor."
+  },
+  "930": {
+    "reason": "Regla 28: el buque restringido por su calado muestra tres luces rojas en vertical o, de día, una marca cilíndrica negra."
+  },
+  "931": {
+    "reason": "Regla 17: el buque que debe mantener su derrota conserva inicialmente rumbo y velocidad, pero vigila y actúa si el otro no maniobra y existe riesgo."
+  },
+  "933": {
+    "reason": "Regla 8: la maniobra de evitación debe ser clara, suficientemente anticipada y perceptible para el otro buque."
+  },
+  "934": {
+    "reason": "Regla 21: la luz de alcance es blanca y se ve en un sector de 135° hacia popa."
+  },
+  "935": {
+    "reason": "Regla 3: a efectos del RIPA, eslora significa la eslora máxima del buque."
+  },
+  "937": {
+    "reason": "Regla 8: sucesivos cambios pequeños resultan poco perceptibles; la alteración de rumbo debe ser suficientemente amplia y clara."
+  },
+  "938": {
+    "reason": "Regla 14: dos buques de motor en vuelta encontrada alteran ambos el rumbo a estribor para pasar babor con babor."
+  },
+  "939": {
+    "reason": "Regla 27: la capacidad de maniobra restringida se señala con tres luces todo horizonte en vertical: roja, blanca y roja."
+  },
+  "943": {
+    "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
+  },
+  "944": {
+    "reason": "Regla 17: en el cruce, el buque que mantiene la derrota conserva inicialmente rumbo y velocidad, sin dejar de vigilar la maniobra del otro."
+  },
+  "945": {
+    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
+    "wrong": {
+      "a": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
+      "b": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros."
+    }
+  },
+  "946": {
+    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+  },
+  "947": {
+    "reason": "Regla 27: la reproducción rígida de la bandera A del Código Internacional de Señales identifica un buque dedicado a operaciones de buceo."
+  },
+  "948": {
+    "reason": "Regla 35: una larga seguida de tres cortas es la señal de niebla del último buque remolcado, si lleva tripulación."
+  },
+  "949": {
+    "reason": "Regla 27: dos bolas negras colocadas verticalmente son la marca diurna del buque sin gobierno."
+  },
+  "951": {
+    "reason": "Regla 24: por proa se reconoce el remolque por dos luces de tope blancas superpuestas (tres si el remolque supera 200 m); además se ven las luces de costado."
+  },
+  "952": {
+    "reason": "Regla 8: con espacio suficiente, un cambio amplio de rumbo puede evitar el abordaje sin crear una aproximación excesiva."
+  },
+  "953": {
+    "reason": "Reglas 3 y 18: un velero que también utiliza el motor se considera de propulsión mecánica y debe mantenerse apartado de un velero."
+  },
+  "954": {
+    "reason": "Regla 6: la velocidad de seguridad depende de la visibilidad, el tráfico, la maniobrabilidad, el entorno y, si se usa radar, de sus limitaciones."
+  },
+  "957": {
+    "reason": "Regla 32: una pitada corta dura aproximadamente un segundo."
+  },
+  "958": {
+    "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
+  },
+  "960": {
+    "reason": "Regla 14: en vuelta encontrada ambos buques de motor caen a estribor para pasar babor con babor."
+  },
+  "961": {
+    "reason": "Regla 15: en un cruce con riesgo de abordaje entre buques de motor, el que ve al otro por estribor se mantiene apartado."
+  },
+  "962": {
+    "reason": "Regla 18: el velero se aparta del buque dedicado a la pesca, que tiene menos libertad de maniobra."
+  },
+  "963": {
+    "reason": "Regla 18: el velero debe mantenerse apartado de un buque con capacidad de maniobra restringida."
+  },
+  "964": {
+    "reason": "Regla 30: el buque fondeado muestra de día una bola negra y de noche luz o luces blancas todo horizonte, según su eslora."
+  },
+  "965": {
+    "reason": "Regla 26: la marca diurna de pesca se forma con dos conos negros unidos por sus vértices; los aparejos largos pueden requerir una marca adicional."
+  },
+  "966": {
+    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+  },
+  "967": {
+    "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
+  },
+  "968": {
+    "reason": "Regla 17: en el cruce, el buque que mantiene la derrota conserva inicialmente rumbo y velocidad, sin dejar de vigilar la maniobra del otro."
+  },
+  "969": {
+    "reason": "Reglas 3 y 18: un velero que también utiliza el motor se considera de propulsión mecánica y debe mantenerse apartado de un velero."
+  },
+  "970": {
+    "reason": "Regla 21: la luz de remolque es amarilla y cubre 135° hacia popa, igual que el sector de una luz de alcance."
+  },
+  "971": {
+    "reason": "Regla 30: una embarcación varada añade a las señales de fondeo dos luces rojas en vertical o, de día, tres bolas negras en vertical."
+  },
+  "972": {
+    "reason": "Código Internacional de Señales: las banderas N y C juntas comunican peligro y necesidad de ayuda."
+  },
+  "973": {
+    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+  },
+  "975": {
+    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
+    "wrong": {
+      "a": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
+      "b": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
+      "c": "El buque alcanzado mantiene su derrota; quien se aproxima desde atrás debe apartarse."
+    }
+  },
+  "976": {
+    "reason": "Regla 27: la reproducción rígida de la bandera A del Código Internacional de Señales identifica un buque dedicado a operaciones de buceo."
+  },
+  "977": {
+    "reason": "Regla 34: tres pitadas cortas significan «estoy dando atrás». Una corta indica caída a estribor y dos cortas, a babor."
+  },
+  "978": {
+    "reason": "Regla 28: el buque restringido por su calado muestra tres luces rojas en vertical o, de día, una marca cilíndrica negra."
+  },
+  "979": {
+    "reason": "Regla 3: un buque está en navegación si no está fondeado, amarrado a tierra ni varado, aunque no lleve arrancada."
+  },
+  "980": {
+    "reason": "Regla 35: dos pitadas largas separadas por unos dos segundos identifican a un buque de motor en navegación, parado y sin arrancada, con visibilidad reducida."
+  },
+  "981": {
+    "reason": "Regla 9: los veleros y los buques de menos de 20 m no deben estorbar a los que solo pueden navegar con seguridad dentro del canal angosto."
+  },
+  "983": {
+    "reason": "Regla 18: el buque de propulsión mecánica se mantiene apartado del velero, salvo que rija una regla específica como la de alcance."
+  },
+  "984": {
+    "reason": "Regla 8: sucesivos cambios pequeños resultan poco perceptibles; la alteración de rumbo debe ser suficientemente amplia y clara."
+  },
+  "985": {
+    "reason": "Regla 35: un buque fondeado hace repicar la campana rápidamente durante unos cinco segundos en intervalos de como máximo un minuto."
+  },
+  "986": {
+    "reason": "Regla 35: dos pitadas largas separadas por unos dos segundos identifican a un buque de motor en navegación, parado y sin arrancada, con visibilidad reducida."
+  },
+  "987": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "a": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor.",
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "988": {
+    "reason": "Anexo IV del RIPA: una bandera cuadrada con una bola encima o debajo es una señal de socorro."
+  },
+  "989": {
+    "reason": "Regla 35: una larga y dos cortas, repetidas como máximo cada dos minutos, corresponde entre otros a un velero, un pesquero o un remolcador en visibilidad reducida."
+  },
+  "990": {
+    "reason": "Regla 3: está sin gobierno el buque que, por una circunstancia excepcional, no puede maniobrar como exige el RIPA y por ello no puede apartarse de otro."
+  },
+  "991": {
+    "reason": "Regla 13: quien alcanza se mantiene apartado, aunque sea un velero y el alcanzado navegue a motor.",
+    "wrong": {
+      "a": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
+      "b": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros."
+    }
+  },
+  "992": {
+    "reason": "Regla 18: el buque de propulsión mecánica se mantiene apartado del velero, salvo que rija una regla específica como la de alcance."
+  },
+  "993": {
+    "reason": "Regla 34: dos pitadas cortas indican «estoy cayendo a babor»; una corta, a estribor."
+  },
+  "996": {
+    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+  },
+  "997": {
+    "reason": "Anexo IV del RIPA: un sonido continuo de un aparato de señales de niebla es una señal de socorro."
+  },
+  "998": {
+    "reason": "Regla 35: una larga y dos cortas, repetidas como máximo cada dos minutos, corresponde entre otros a un velero, un pesquero o un remolcador en visibilidad reducida."
+  },
+  "1001": {
+    "reason": "Regla 30: un buque fondeado de menos de 50 m puede mostrar una luz blanca todo horizonte en el lugar más visible."
+  },
+  "1002": {
+    "reason": "Anexo IV del RIPA: un sonido continuo de un aparato de señales de niebla es una señal de socorro."
+  },
+  "1003": {
+    "reason": "Regla 21: la luz de alcance es blanca y se ve en un sector de 135° hacia popa."
+  },
+  "1004": {
+    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
+    "wrong": {
+      "c": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
+      "d": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros."
+    }
+  },
+  "1005": {
+    "reason": "Regla 17: si el buque obligado a apartarse no actúa, el que mantiene inicialmente la derrota puede maniobrar; si es posible, evita caer a babor hacia el otro."
+  },
+  "1010": {
+    "reason": "Anexo IV del RIPA: un sonido continuo de un aparato de señales de niebla es una señal de socorro."
+  },
+  "1011": {
+    "reason": "Anexo IV del RIPA: levantar y bajar lenta y repetidamente los brazos extendidos es una señal de socorro."
+  },
+  "1013": {
+    "reason": "Regla 14: dos buques de motor en vuelta encontrada alteran ambos el rumbo a estribor para pasar babor con babor."
+  },
+  "1014": {
+    "reason": "Regla 20: las marcas diurnas prescritas por el RIPA son negras, para distinguirlas visualmente de las luces nocturnas."
+  },
+  "1015": {
+    "reason": "Regla 18: el velero se aparta del buque dedicado a la pesca, que tiene menos libertad de maniobra."
+  },
+  "1016": {
+    "reason": "Anexo IV del RIPA: el humo anaranjado es una señal de socorro."
+  },
+  "1017": {
+    "reason": "Regla 30: una embarcación varada añade a las señales de fondeo dos luces rojas en vertical o, de día, tres bolas negras en vertical."
+  },
+  "1019": {
+    "reason": "Regla 18: un velero en navegación debe mantenerse apartado de un buque dedicado a la pesca.",
+    "contrast": "La preferencia usual del velero frente al motor no se aplica frente a este buque."
+  },
+  "1020": {
+    "reason": "Regla 24: el remolcador muestra una marca bicónica cuando la longitud del remolque supera 200 m."
+  },
+  "1021": {
+    "reason": "Regla 17: el buque que debe mantener su derrota conserva inicialmente rumbo y velocidad, pero vigila y actúa si el otro no maniobra y existe riesgo."
+  },
+  "1022": {
+    "reason": "Regla 1: el RIPA se aplica a todos los buques en alta mar y en aguas comunicadas con ella navegables por buques de mar."
+  },
+  "1023": {
+    "reason": "Regla 25: si navega a vela y motor a la vez, debe mostrar de día un cono negro con el vértice hacia abajo."
+  },
+  "1024": {
+    "reason": "Regla 18: el velero se aparta del buque dedicado a la pesca, que tiene menos libertad de maniobra."
+  },
+  "1025": {
+    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+  },
+  "1026": {
+    "reason": "Regla 35: una larga y dos cortas, repetidas como máximo cada dos minutos, corresponde entre otros a un velero, un pesquero o un remolcador en visibilidad reducida."
+  },
+  "1029": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "a": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor.",
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1031": {
+    "reason": "Anexo IV del RIPA: un sonido continuo de un aparato de señales de niebla es una señal de socorro."
+  },
+  "1032": {
+    "reason": "Regla 30: el buque fondeado muestra de día una bola negra y de noche luz o luces blancas todo horizonte, según su eslora."
+  },
+  "1033": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1034": {
+    "reason": "Regla 18: el buque de propulsión mecánica se mantiene apartado del velero, salvo que rija una regla específica como la de alcance."
+  },
+  "1036": {
+    "reason": "Regla 32: una pitada larga dura aproximadamente entre cuatro y seis segundos."
+  },
+  "1037": {
+    "reason": "Regla 3: está sin gobierno el buque que, por una circunstancia excepcional, no puede maniobrar como exige el RIPA y por ello no puede apartarse de otro."
+  },
+  "1040": {
+    "reason": "Regla 17: el buque que debe mantener su derrota conserva inicialmente rumbo y velocidad, pero vigila y actúa si el otro no maniobra y existe riesgo."
+  },
+  "1042": {
+    "reason": "Regla 24: el remolcador muestra una marca bicónica cuando la longitud del remolque supera 200 m."
+  },
+  "1045": {
+    "reason": "Regla 18: el buque de propulsión mecánica se mantiene apartado del velero, salvo que rija una regla específica como la de alcance."
+  },
+  "1048": {
+    "reason": "Regla 6: la velocidad de seguridad depende de la visibilidad, el tráfico, la maniobrabilidad, el entorno y, si se usa radar, de sus limitaciones."
+  },
+  "1049": {
+    "reason": "Regla 24: el remolcador muestra una marca bicónica cuando la longitud del remolque supera 200 m."
+  },
+  "1050": {
+    "reason": "Regla 28: el buque restringido por su calado muestra tres luces rojas en vertical o, de día, una marca cilíndrica negra."
+  },
+  "1052": {
+    "reason": "Regla 35: un práctico puede añadir cuatro pitadas cortas a la señal que corresponda a su situación; fondeado, se oyen además las señales de campana."
+  },
+  "1054": {
+    "reason": "Reglas 3 y 18: un velero que también utiliza el motor se considera de propulsión mecánica y debe mantenerse apartado de un velero."
+  },
+  "1055": {
+    "reason": "Regla 18: el velero debe mantenerse apartado de un buque con capacidad de maniobra restringida."
+  },
+  "1056": {
+    "reason": "Regla 18: el velero se aparta del buque dedicado a la pesca, que tiene menos libertad de maniobra."
+  },
+  "1057": {
+    "reason": "Regla 30: el buque fondeado muestra de día una bola negra y de noche luz o luces blancas todo horizonte, según su eslora."
+  },
+  "1060": {
+    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+  },
+  "1061": {
+    "reason": "Regla 20: las marcas diurnas prescritas por el RIPA son negras, para distinguirlas visualmente de las luces nocturnas."
+  },
+  "1064": {
+    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+  },
+  "1066": {
+    "reason": "Regla 18: el buque de propulsión mecánica se mantiene apartado del velero, salvo que rija una regla específica como la de alcance."
+  },
+  "1069": {
+    "reason": "Regla 18: el velero se aparta del buque dedicado a la pesca, que tiene menos libertad de maniobra."
+  },
+  "1070": {
+    "reason": "Regla 15: el buque que nos tiene a su estribor debe apartarse; nosotros somos el buque que mantiene inicialmente rumbo y velocidad."
+  },
+  "1072": {
+    "reason": "Regla 34: en un canal angosto, dos largas y dos cortas anuncian que se pretende adelantar por babor del alcanzado."
+  },
+  "1074": {
+    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+  },
+  "1077": {
+    "reason": "Regla 3: está sin gobierno el buque que, por una circunstancia excepcional, no puede maniobrar como exige el RIPA y por ello no puede apartarse de otro."
+  },
+  "1078": {
+    "reason": "Regla 10: al cruzar una vía de separación de tráfico se lleva un rumbo lo más perpendicular posible; los veleros y buques pequeños no deben estorbar a los de motor en la vía."
+  },
+  "1079": {
+    "reason": "Regla 17: en el cruce, el buque que mantiene la derrota conserva inicialmente rumbo y velocidad, sin dejar de vigilar la maniobra del otro."
+  },
+  "1080": {
+    "reason": "Regla 21: la luz de remolque es amarilla y cubre 135° hacia popa, igual que el sector de una luz de alcance."
+  },
+  "1081": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "a": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor.",
+      "b": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1084": {
+    "reason": "Regla 26: la marca diurna de pesca se forma con dos conos negros unidos por sus vértices; los aparejos largos pueden requerir una marca adicional."
+  },
+  "1087": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "b": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor.",
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1089": {
+    "reason": "Regla 12: con viento por bandas distintas, el velero que lo recibe por babor se mantiene apartado del que lo recibe por estribor.",
+    "wrong": {
+      "d": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1092": {
+    "reason": "Regla 34: tres pitadas cortas significan «estoy dando atrás». Una corta indica caída a estribor y dos cortas, a babor."
+  },
+  "1093": {
+    "reason": "Regla 28: el buque restringido por su calado muestra tres luces rojas en vertical o, de día, una marca cilíndrica negra."
+  },
+  "1094": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "b": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor.",
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1096": {
+    "reason": "Regla 28: el buque restringido por su calado muestra tres luces rojas en vertical o, de día, una marca cilíndrica negra."
+  },
+  "1097": {
+    "reason": "Anexo IV del RIPA: un sonido continuo de un aparato de señales de niebla es una señal de socorro."
+  },
+  "1100": {
+    "reason": "Regla 30: un buque fondeado de menos de 50 m puede mostrar una luz blanca todo horizonte en el lugar más visible."
+  },
+  "1102": {
+    "reason": "Anexo IV del RIPA: un sonido continuo de un aparato de señales de niebla es una señal de socorro."
+  },
+  "1103": {
+    "reason": "Regla 17: si el buque obligado a apartarse no actúa, el que mantiene inicialmente la derrota puede maniobrar; si es posible, evita caer a babor hacia el otro."
+  },
+  "1104": {
+    "reason": "Regla 26: la marca diurna de pesca se forma con dos conos negros unidos por sus vértices; los aparejos largos pueden requerir una marca adicional."
+  },
+  "1108": {
+    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+  },
+  "1109": {
+    "reason": "Regla 18: el velero se aparta del buque dedicado a la pesca, que tiene menos libertad de maniobra."
+  },
+  "1111": {
+    "reason": "Regla 28: el buque restringido por su calado muestra tres luces rojas en vertical o, de día, una marca cilíndrica negra."
+  },
+  "1112": {
+    "reason": "Regla 30: el buque fondeado muestra de día una bola negra y de noche luz o luces blancas todo horizonte, según su eslora."
+  },
+  "1113": {
+    "reason": "Regla 32: una pitada larga dura aproximadamente entre cuatro y seis segundos."
+  },
+  "1114": {
+    "reason": "Regla 8: la maniobra de evitación debe ser clara, suficientemente anticipada y perceptible para el otro buque."
+  },
+  "1115": {
+    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
+    "wrong": {
+      "c": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
+      "d": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros."
+    }
+  },
+  "1117": {
+    "reason": "Regla 21: la luz de remolque es amarilla y cubre 135° hacia popa, igual que el sector de una luz de alcance."
+  },
+  "1118": {
+    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+  },
+  "1120": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1124": {
+    "reason": "Regla 9: los veleros y los buques de menos de 20 m no deben estorbar a los que solo pueden navegar con seguridad dentro del canal angosto."
+  },
+  "1125": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "a": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor.",
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1126": {
+    "reason": "Regla 34: en un canal angosto, dos largas y una corta anuncian que se pretende adelantar por estribor del alcanzado."
+  },
+  "1128": {
+    "reason": "Regla 15: en un cruce con riesgo de abordaje entre buques de motor, el que ve al otro por estribor se mantiene apartado."
+  },
+  "1129": {
+    "reason": "Regla 18: el buque de propulsión mecánica se mantiene apartado del velero, salvo que rija una regla específica como la de alcance."
+  },
+  "1133": {
+    "reason": "Regla 30: el buque fondeado muestra de día una bola negra y de noche luz o luces blancas todo horizonte, según su eslora."
+  },
+  "1134": {
+    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
+    "wrong": {
+      "a": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
+      "b": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
+      "c": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros."
+    }
+  },
+  "1135": {
+    "reason": "Regla 21: la luz de remolque es amarilla y cubre 135° hacia popa, igual que el sector de una luz de alcance."
+  },
+  "1136": {
+    "reason": "Regla 21: la luz de alcance es blanca y se ve en un sector de 135° hacia popa."
+  },
+  "1137": {
+    "reason": "Regla 30: un buque fondeado de menos de 50 m puede mostrar una luz blanca todo horizonte en el lugar más visible."
+  },
+  "1138": {
+    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+  },
+  "1139": {
+    "reason": "Regla 17: si el buque obligado a apartarse no actúa, el que mantiene inicialmente la derrota puede maniobrar; si es posible, evita caer a babor hacia el otro."
+  },
+  "1140": {
+    "reason": "Regla 18: el velero debe mantenerse apartado del buque sin gobierno, que no puede maniobrar como exige el reglamento."
+  },
+  "1141": {
+    "reason": "Regla 24: el remolcador muestra una marca bicónica cuando la longitud del remolque supera 200 m."
+  },
+  "1144": {
+    "reason": "Regla 30: el buque fondeado muestra de día una bola negra y de noche luz o luces blancas todo horizonte, según su eslora."
+  },
+  "1145": {
+    "reason": "Regla 21: la luz de tope es blanca y cubre 225° hacia proa."
+  },
+  "1146": {
+    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+  },
+  "1147": {
+    "reason": "Regla 9: los veleros y los buques de menos de 20 m no deben estorbar a los que solo pueden navegar con seguridad dentro del canal angosto."
+  },
+  "1149": {
+    "reason": "Regla 17: en el cruce, el buque que mantiene la derrota conserva inicialmente rumbo y velocidad, sin dejar de vigilar la maniobra del otro."
+  },
+  "1153": {
+    "reason": "Regla 34: larga, corta, larga, corta es la respuesta del buque alcanzado para indicar conformidad con el adelantamiento."
+  },
+  "1156": {
+    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+  },
+  "1157": {
+    "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
+  },
+  "1161": {
+    "reason": "Regla 15: en un cruce con riesgo de abordaje entre buques de motor, el que ve al otro por estribor se mantiene apartado."
+  },
+  "1162": {
+    "reason": "Regla 9: los veleros y los buques de menos de 20 m no deben estorbar a los que solo pueden navegar con seguridad dentro del canal angosto."
+  },
+  "1163": {
+    "reason": "Regla 12: con viento por bandas distintas, el velero que lo recibe por babor se mantiene apartado del que lo recibe por estribor.",
+    "wrong": {
+      "d": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1164": {
+    "reason": "Regla 35: un práctico puede añadir cuatro pitadas cortas a la señal que corresponda a su situación; fondeado, se oyen además las señales de campana."
+  },
+  "1165": {
+    "reason": "Reglas 21 y 24: un remolcador visto por popa muestra la luz de remolque amarilla sobre su luz blanca de alcance."
+  },
+  "1166": {
+    "reason": "Regla 6: la velocidad de seguridad depende de la visibilidad, el tráfico, la maniobrabilidad, el entorno y, si se usa radar, de sus limitaciones."
+  },
+  "1167": {
+    "reason": "Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
+  },
+  "1169": {
+    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+  },
+  "1171": {
+    "reason": "Regla 26: la marca diurna de pesca se forma con dos conos negros unidos por sus vértices; los aparejos largos pueden requerir una marca adicional."
+  },
+  "1172": {
+    "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
+  },
+  "1173": {
+    "reason": "Regla 35: un buque fondeado hace repicar la campana rápidamente durante unos cinco segundos en intervalos de como máximo un minuto."
+  },
+  "1175": {
+    "reason": "Regla 34: una pitada corta indica que el buque cae a estribor; dos cortas indican caída a babor."
+  },
+  "1177": {
+    "reason": "Regla 3: está sin gobierno el buque que, por una circunstancia excepcional, no puede maniobrar como exige el RIPA y por ello no puede apartarse de otro."
+  },
+  "1179": {
+    "reason": "Regla 10: los veleros y barcos pequeños no deben estorbar el tránsito de los buques de motor que siguen una vía de separación de tráfico."
+  },
+  "1180": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "a": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor.",
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1182": {
+    "reason": "Regla 34: una pitada corta indica que el buque cae a estribor; dos cortas indican caída a babor."
+  },
+  "1184": {
+    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+  },
+  "1186": {
+    "reason": "Regla 9: los veleros y los buques de menos de 20 m no deben estorbar a los que solo pueden navegar con seguridad dentro del canal angosto."
+  },
+  "1188": {
+    "reason": "Regla 17: en el cruce, el buque que mantiene la derrota conserva inicialmente rumbo y velocidad, sin dejar de vigilar la maniobra del otro."
+  },
+  "1189": {
+    "reason": "Regla 3: está sin gobierno el buque que, por una circunstancia excepcional, no puede maniobrar como exige el RIPA y por ello no puede apartarse de otro."
+  },
+  "1194": {
+    "reason": "Regla 24: por proa se reconoce el remolque por dos luces de tope blancas superpuestas (tres si el remolque supera 200 m); además se ven las luces de costado."
+  },
+  "1195": {
+    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+  },
+  "1196": {
+    "reason": "Regla 18: debemos apartarnos del buque con capacidad de maniobra restringida, que realiza una tarea que limita sus movimientos."
+  },
+  "1197": {
+    "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
+  },
+  "1198": {
+    "reason": "Regla 12: si los dos veleros reciben el viento por la misma banda, el de barlovento se mantiene apartado del de sotavento.",
+    "wrong": {
+      "b": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1199": {
+    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
+    "wrong": {
+      "c": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros.",
+      "d": "En una situación de alcance se aplica la regla 13 antes que las reglas entre veleros."
+    }
+  },
+  "1200": {
+    "reason": "Regla 30: una embarcación varada añade a las señales de fondeo dos luces rojas en vertical o, de día, tres bolas negras en vertical."
+  },
+  "1201": {
+    "reason": "Regla 35: un práctico puede añadir cuatro pitadas cortas a la señal que corresponda a su situación; fondeado, se oyen además las señales de campana."
+  },
+  "1202": {
+    "reason": "Regla 3: un buque está en navegación si no está fondeado, amarrado a tierra ni varado, aunque no lleve arrancada."
+  },
+  "1204": {
+    "reason": "Regla 9: los veleros y los buques de menos de 20 m no deben estorbar a los que solo pueden navegar con seguridad dentro del canal angosto."
+  },
+  "1206": {
+    "reason": "Regla 7: una demora que no cambia de forma apreciable mientras disminuye la distancia indica riesgo de abordaje; incluso una demora variable no lo descarta por completo."
+  },
+  "1209": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "a": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor.",
+      "b": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1211": {
+    "reason": "Regla 3: una embarcación que navega simultáneamente a vela y con motor se considera buque de propulsión mecánica."
+  },
+  "1214": {
+    "reason": "Regla 3: estar en navegación significa no estar fondeado, amarrado a tierra ni varado; no exige llevar arrancada."
+  },
+  "1215": {
+    "reason": "Regla 6: la velocidad de seguridad depende de la visibilidad, el tráfico, la maniobrabilidad, el entorno y, si se usa radar, de sus limitaciones."
+  },
+  "1217": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "b": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor.",
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1218": {
+    "reason": "Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
+  },
+  "1223": {
+    "reason": "Regla 21: cada luz de costado cubre 112,5° desde la proa hasta 22,5° a popa del través."
+  },
+  "1224": {
+    "reason": "Regla 27: la reproducción rígida de la bandera A del Código Internacional de Señales identifica un buque dedicado a operaciones de buceo."
+  },
+  "1226": {
+    "reason": "Regla 24: con una longitud de remolque superior a 200 m se añade una marca bicónica negra de día."
+  },
+  "1227": {
+    "reason": "Regla 17: en el cruce, el buque que mantiene la derrota conserva inicialmente rumbo y velocidad, sin dejar de vigilar la maniobra del otro."
+  },
+  "1228": {
+    "reason": "Regla 35: una larga y dos cortas, repetidas como máximo cada dos minutos, corresponde entre otros a un velero, un pesquero o un remolcador en visibilidad reducida."
+  },
+  "1232": {
+    "reason": "Anexo IV del RIPA: levantar y bajar lenta y repetidamente los brazos extendidos es una señal de socorro."
+  },
+  "1233": {
+    "reason": "Regla 5: la vigilancia debe mantenerse en todo momento por la vista, el oído y todos los medios disponibles, también al fondear y con niebla."
+  },
+  "1234": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1237": {
+    "reason": "Regla 27: la capacidad de maniobra restringida se señala con tres luces todo horizonte en vertical: roja, blanca y roja."
+  },
+  "1240": {
+    "reason": "Regla 7: una demora que no cambia de forma apreciable mientras disminuye la distancia indica riesgo de abordaje; incluso una demora variable no lo descarta por completo."
+  },
+  "1241": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "b": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor.",
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1242": {
+    "reason": "Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
+  },
+  "1244": {
+    "reason": "Regla 3: estar en navegación significa no estar fondeado, amarrado a tierra ni varado; no exige llevar arrancada."
+  },
+  "1245": {
+    "reason": "Reglas 15 y 17: entre dos buques de motor que se cruzan, el que ve al otro por estribor se aparta; el otro mantiene inicialmente rumbo y velocidad. Si el primero no actúa, este último puede tener que maniobrar para evitar el abordaje."
+  },
+  "1248": {
+    "reason": "Regla 15: el buque que nos tiene a su estribor debe apartarse; nosotros somos el buque que mantiene inicialmente rumbo y velocidad."
+  },
+  "1249": {
+    "reason": "Anexo IV del RIPA: levantar y bajar lenta y repetidamente los brazos extendidos es una señal de socorro."
+  },
+  "1250": {
+    "reason": "Regla 27: la capacidad de maniobra restringida se señala con tres luces todo horizonte en vertical: roja, blanca y roja."
+  },
+  "1251": {
+    "reason": "Regla 35: una larga seguida de tres cortas es la señal de niebla del último buque remolcado, si lleva tripulación."
+  },
+  "1252": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1253": {
+    "reason": "Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
+  },
+  "1257": {
+    "reason": "Regla 8: hay que comprobar que la maniobra funciona hasta que el otro buque haya pasado y quede libre de peligro."
+  },
+  "1258": {
+    "reason": "Regla 9: los veleros y los buques de menos de 20 m no deben estorbar a los que solo pueden navegar con seguridad dentro del canal angosto."
+  },
+  "1259": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1261": {
+    "reason": "Regla 18: un buque de motor o de vela debe mantenerse apartado de un buque dedicado a la pesca; la prioridad del cruce entre dos motores no se aplica a esta pareja."
+  },
+  "1262": {
+    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+  },
+  "1263": {
+    "reason": "Anexo IV del RIPA: levantar y bajar lenta y repetidamente los brazos extendidos es una señal de socorro."
+  },
+  "1265": {
+    "reason": "Regla 12: si los dos veleros reciben el viento por la misma banda, el de barlovento se mantiene apartado del de sotavento.",
+    "wrong": {
+      "b": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1266": {
+    "reason": "Regla 13: el buque que alcanza debe mantenerse apartado del alcanzado, sea cual sea el tipo de ambos.",
+    "contrast": "La prioridad por tipo de buque o banda de viento no desplaza la regla de alcance.",
+    "wrong": {
+      "d": "El buque alcanzado mantiene su derrota; quien se aproxima desde atrás debe apartarse."
+    }
+  },
+  "1268": {
+    "reason": "Regla 35: una larga y dos cortas, repetidas como máximo cada dos minutos, corresponde entre otros a un velero, un pesquero o un remolcador en visibilidad reducida."
+  },
+  "1269": {
+    "reason": "Regla 6: todos los buques deben navegar en todo momento a velocidad de seguridad para poder maniobrar y detenerse a tiempo."
+  },
+  "1270": {
+    "reason": "Regla 34: larga, corta, larga, corta es la respuesta del buque alcanzado para indicar conformidad con el adelantamiento."
+  },
+  "1272": {
+    "reason": "Regla 24: por proa se reconoce el remolque por dos luces de tope blancas superpuestas (tres si el remolque supera 200 m); además se ven las luces de costado."
+  },
+  "1276": {
+    "reason": "Regla 6: todos los buques deben navegar en todo momento a velocidad de seguridad para poder maniobrar y detenerse a tiempo."
+  },
+  "1277": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "b": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor.",
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1279": {
+    "reason": "Regla 21: la luz de remolque es amarilla y cubre 135° hacia popa, igual que el sector de una luz de alcance."
+  },
+  "1280": {
+    "reason": "Regla 34: al menos cinco pitadas cortas y rápidas expresan duda sobre las intenciones o maniobras del otro buque."
+  },
+  "1282": {
+    "reason": "Regla 27: la capacidad de maniobra restringida se señala con tres luces todo horizonte en vertical: roja, blanca y roja."
+  },
+  "1283": {
+    "reason": "Regla 27: dos bolas negras en vertical son la marca diurna de un buque sin gobierno."
+  },
+  "1284": {
+    "reason": "Regla 26: un pesquero de arrastre muestra verde sobre blanco; otros pesqueros, rojo sobre blanco. Si lleva arrancada también exhibe luces de costado y alcance."
+  },
+  "1286": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1288": {
+    "reason": "Regla 21: la luz de tope es blanca y cubre 225° hacia proa."
+  },
+  "1289": {
+    "reason": "Regla 3: estar en navegación significa no estar fondeado, amarrado a tierra ni varado; no exige llevar arrancada."
+  },
+  "1290": {
+    "reason": "Regla 12: entre dos veleros con viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor.",
+    "contrast": "En este caso, la banda por la que recibe el viento prevalece sobre estar a barlovento o sotavento.",
+    "wrong": {
+      "c": "La posición de barlovento importa cuando los dos veleros reciben el viento por la misma banda; si son bandas distintas, cede el que recibe por babor."
+    }
+  },
+  "1291": {
+    "reason": "Regla 24: por proa se reconoce el remolque por dos luces de tope blancas superpuestas (tres si el remolque supera 200 m); además se ven las luces de costado."
+  },
+  "1293": {
+    "reason": "Regla 21: la luz de alcance está hacia popa, es blanca y cubre 135°."
+  },
+  "1295": {
+    "reason": "Regla 29: el buque en servicio de practicaje muestra blanca sobre roja todo horizonte; si está fondeado añade las luces de fondeo."
+  },
+  "1297": {
+    "reason": "Regla 27: el buque sin gobierno muestra dos luces rojas todo horizonte en vertical; si además lleva arrancada, muestra luces de costado y de alcance. De día usa dos bolas negras."
+  },
+  "1298": {
+    "reason": "Regla 17: si el buque obligado a apartarse no actúa, el que mantiene inicialmente la derrota puede maniobrar; si es posible, evita caer a babor hacia el otro."
+  },
+  "1299": {
+    "reason": "Regla 18: un velero en navegación debe mantenerse apartado de un buque dedicado a la pesca.",
+    "contrast": "La preferencia usual del velero frente al motor no se aplica frente a este buque."
+  },
+  "1302": {
+    "reason": "Regla 35: un práctico puede añadir cuatro pitadas cortas a la señal que corresponda a su situación; fondeado, se oyen además las señales de campana."
+  },
+  "1303": {
+    "reason": "Regla 24: el remolcador muestra una marca bicónica cuando la longitud del remolque supera 200 m."
+  },
+  "1307": {
+    "reason": "Regla 10: cuando sea necesario cruzar una vía de separación de tráfico, se hace con rumbo lo más perpendicular posible para atravesarla con claridad."
+  },
+  "1308": {
+    "reason": "Regla 34: tres pitadas cortas significan «estoy dando atrás». Una corta indica caída a estribor y dos cortas, a babor."
+  },
+  "1310": {
+    "reason": "Regla 27: la capacidad de maniobra restringida se señala con tres luces todo horizonte en vertical: roja, blanca y roja."
+  },
+  "1311": {
+    "reason": "Regla 27: dos bolas negras en vertical son la marca diurna de un buque sin gobierno."
+  },
+  "1312": {
+    "reason": "Anexo IV del RIPA: levantar y bajar lenta y repetidamente los brazos extendidos es una señal de socorro."
+  },
+  "1313": {
+    "reason": "Regla 25: un velero en navegación exhibe luces de costado y de alcance; no lleva la luz de tope propia de un buque de motor."
+  },
+  "1315": {
+    "reason": "Regla 3: una embarcación que navega simultáneamente a vela y con motor se considera buque de propulsión mecánica."
+  },
+  "1316": {
+    "reason": "Regla 9: los veleros y los buques de menos de 20 m no deben estorbar a los que solo pueden navegar con seguridad dentro del canal angosto."
+  },
+  "1317": {
+    "reason": "Regla 18: el velero debe mantenerse apartado del buque sin gobierno, que no puede maniobrar como exige el reglamento."
+  },
+  "1318": {
+    "reason": "Deriva es el desplazamiento lateral de la derrota respecto del rumbo debido a la corriente. No es velocidad ni distancia recorrida."
+  },
+  "1319": {
+    "reason": "Aproximarse con la proa a la corriente permite controlar mejor la velocidad relativa respecto de la boya."
+  },
+  "1321": {
+    "reason": "La gaza es el lazo u ojo practicado en un cabo para encapillarlo en un noray."
+  },
+  "1322": {
+    "reason": "El noray es una pieza fija del muelle donde se hacen firmes las amarras."
+  },
+  "1323": {
+    "reason": "Templar es dar a un cabo la tensión adecuada, sin dejarlo flojo ni forzarlo."
+  },
+  "1324": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1326": {
+    "reason": "Al acercarse a la boya conviene llevar la proa hacia la dirección de donde viene el viento para reducir la arrancada. El rumbo en grados corresponde a esa dirección de procedencia."
+  },
+  "1327": {
+    "reason": "La gaza propia se pasa por el interior de las ya encapilladas para poder deshacer cada amarra sin levantar todas las demás."
+  },
+  "1328": {
+    "reason": "Adujar es recoger y disponer un cabo en vueltas ordenadas para que no se enrede y quede listo para usar.",
+    "wrong": {
+      "a": "Una gaza es un ojo en el cabo; adujar significa recogerlo en vueltas.",
+      "b": "Aflojar el cabo es lascarlo; adujarlo es recogerlo ordenadamente.",
+      "d": "Una boza sirve para sujetar un cabo; adujarlo es disponerlo en vueltas."
+    }
+  },
+  "1329": {
+    "reason": "Con arrancada avante, la pala del timón desvía el flujo de agua y hace girar la popa al lado opuesto de la caída de proa. La posición de la caña puede ser opuesta a la de la rueda."
+  },
+  "1330": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1331": {
+    "reason": "Lascar es aflojar o dar algo de cabo que está trabajando; largarlo sería dejarlo libre."
+  },
+  "1332": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1334": {
+    "reason": "Deriva es el desplazamiento lateral de la derrota respecto del rumbo debido a la corriente. No es velocidad ni distancia recorrida."
+  },
+  "1335": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1337": {
+    "reason": "Al acercarse a la boya conviene llevar la proa hacia la dirección de donde viene el viento para reducir la arrancada. El rumbo en grados corresponde a esa dirección de procedencia."
+  },
+  "1340": {
+    "reason": "Adujar es recoger y disponer un cabo en vueltas ordenadas para que no se enrede y quede listo para usar.",
+    "wrong": {
+      "b": "Una gaza es un ojo en el cabo; adujar significa recogerlo en vueltas.",
+      "c": "Aflojar el cabo es lascarlo; adujarlo es recogerlo ordenadamente.",
+      "d": "Una boza sirve para sujetar un cabo; adujarlo es disponerlo en vueltas."
+    }
+  },
+  "1341": {
+    "reason": "Los largos, tendidos desde proa o popa hacia el muelle, sujetan longitudinalmente la embarcación. El esprín correspondiente se opone al movimiento en el sentido contrario."
+  },
+  "1342": {
+    "reason": "La gaza propia se pasa por el interior de las ya encapilladas para poder deshacer cada amarra sin levantar todas las demás."
+  },
+  "1343": {
+    "reason": "Con arrancada avante, la pala del timón desvía el flujo de agua y hace girar la popa al lado opuesto de la caída de proa. La posición de la caña puede ser opuesta a la de la rueda."
+  },
+  "1344": {
+    "reason": "Ciabogar consiste en girar la embarcación en el menor espacio posible, aprovechando el empuje de la hélice o de ambas hélices."
+  },
+  "1345": {
+    "reason": "Abarloar es situar y amarrar una embarcación al costado de otra."
+  },
+  "1347": {
+    "reason": "Arrancada es la velocidad que conserva la embarcación por inercia aunque se haya dejado de aplicar propulsión."
+  },
+  "1348": {
+    "reason": "La codera trabaja desde el barco hacia un punto opuesto o separado del muelle, y permite controlar su separación lateral."
+  },
+  "1349": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1350": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1351": {
+    "reason": "Abarloar es situar y amarrar una embarcación al costado de otra."
+  },
+  "1352": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1354": {
+    "reason": "Acercarse proa al viento reduce la velocidad respecto de la boya y facilita controlar la aproximación."
+  },
+  "1357": {
+    "reason": "La codera trabaja desde el barco hacia un punto opuesto o separado del muelle, y permite controlar su separación lateral."
+  },
+  "1358": {
+    "reason": "Hacer firme significa sujetar el cabo a un punto de amarre para que quede asegurado."
+  },
+  "1359": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1360": {
+    "reason": "Adujar es recoger y disponer un cabo en vueltas ordenadas para que no se enrede y quede listo para usar."
+  },
+  "1362": {
+    "reason": "Amarras son los cabos usados para sujetar la embarcación al muelle o a otro punto firme."
+  },
+  "1365": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1368": {
+    "reason": "Al acercarse a la boya conviene llevar la proa hacia la dirección de donde viene el viento para reducir la arrancada. El rumbo en grados corresponde a esa dirección de procedencia."
+  },
+  "1369": {
+    "reason": "Con arrancada avante, la pala del timón desvía el flujo de agua y hace girar la popa al lado opuesto de la caída de proa. La posición de la caña puede ser opuesta a la de la rueda."
+  },
+  "1370": {
+    "reason": "Ciabogar consiste en girar la embarcación en el menor espacio posible, aprovechando el empuje de la hélice o de ambas hélices."
+  },
+  "1372": {
+    "reason": "La velocidad de gobierno es la mínima necesaria para que el flujo de agua sobre el timón permita dirigir el barco."
+  },
+  "1375": {
+    "reason": "Viento, corriente y oleaje ejercen fuerzas externas sobre la embarcación; hay que considerarlos antes de maniobrar."
+  },
+  "1378": {
+    "reason": "Cobrar es tirar de un cabo mientras se va recogiendo; lascar es soltarlo parcialmente."
+  },
+  "1379": {
+    "reason": "La velocidad de gobierno es la mínima necesaria para que el flujo de agua sobre el timón permita dirigir el barco."
+  },
+  "1381": {
+    "reason": "Acercarse proa al viento reduce la velocidad respecto de la boya y facilita controlar la aproximación."
+  },
+  "1382": {
+    "reason": "Virar es cobrar un cabo o cadena mediante un molinete, cabrestante u otro mecanismo."
+  },
+  "1383": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1384": {
+    "reason": "Cobrar es tirar de un cabo mientras se va recogiendo; lascar es soltarlo parcialmente."
+  },
+  "1385": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1386": {
+    "reason": "Adujar es recoger y disponer un cabo en vueltas ordenadas para que no se enrede y quede listo para usar."
+  },
+  "1387": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1388": {
+    "reason": "Con arrancada avante, la pala del timón desvía el flujo de agua y hace girar la popa al lado opuesto de la caída de proa. La posición de la caña puede ser opuesta a la de la rueda."
+  },
+  "1390": {
+    "reason": "La codera es una amarra que se da hacia un punto del lado opuesto al muelle, por ejemplo a una boya, para ayudar a separar o controlar el barco."
+  },
+  "1392": {
+    "reason": "La codera es una amarra que se da hacia un punto del lado opuesto al muelle, por ejemplo a una boya, para ayudar a separar o controlar el barco."
+  },
+  "1393": {
+    "reason": "Lascar es aflojar o dar algo de cabo que está trabajando; largarlo sería dejarlo libre."
+  },
+  "1394": {
+    "reason": "Arrancada es la velocidad que conserva la embarcación por inercia aunque se haya dejado de aplicar propulsión."
+  },
+  "1395": {
+    "reason": "Cobrar es tirar de un cabo mientras se va recogiendo; lascar es soltarlo parcialmente."
+  },
+  "1396": {
+    "reason": "Al acercarse a la boya conviene llevar la proa hacia la dirección de donde viene el viento para reducir la arrancada. El rumbo en grados corresponde a esa dirección de procedencia."
+  },
+  "1397": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1398": {
+    "reason": "Deriva es el desplazamiento lateral de la derrota respecto del rumbo debido a la corriente. No es velocidad ni distancia recorrida."
+  },
+  "1399": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1400": {
+    "reason": "Deriva es el desplazamiento lateral de la derrota respecto del rumbo debido a la corriente. No es velocidad ni distancia recorrida."
+  },
+  "1401": {
+    "reason": "Hacer firme significa sujetar el cabo a un punto de amarre para que quede asegurado."
+  },
+  "1402": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1403": {
+    "reason": "Aproximarse con la proa a la corriente permite controlar mejor la velocidad relativa respecto de la boya."
+  },
+  "1405": {
+    "reason": "La corriente desplaza la derrota respecto del rumbo al que apunta la proa; a esa separación se la llama deriva por corriente."
+  },
+  "1406": {
+    "reason": "Largar una amarra es soltarla y dejarla libre; cobrarla es recogerla."
+  },
+  "1408": {
+    "reason": "Los largos, tendidos desde proa o popa hacia el muelle, sujetan longitudinalmente la embarcación. El esprín correspondiente se opone al movimiento en el sentido contrario."
+  },
+  "1409": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1410": {
+    "reason": "La codera trabaja desde el barco hacia un punto opuesto o separado del muelle, y permite controlar su separación lateral."
+  },
+  "1411": {
+    "reason": "Ciabogar consiste en girar la embarcación en el menor espacio posible, aprovechando el empuje de la hélice o de ambas hélices."
+  },
+  "1412": {
+    "reason": "La corriente desplaza la derrota respecto del rumbo al que apunta la proa; a esa separación se la llama deriva por corriente."
+  },
+  "1413": {
+    "reason": "Al acercarse a la boya conviene llevar la proa hacia la dirección de donde viene el viento para reducir la arrancada. El rumbo en grados corresponde a esa dirección de procedencia."
+  },
+  "1414": {
+    "reason": "Con arrancada avante, la pala del timón desvía el flujo de agua y hace girar la popa al lado opuesto de la caída de proa. La posición de la caña puede ser opuesta a la de la rueda."
+  },
+  "1415": {
+    "reason": "Largar una amarra es soltarla y dejarla libre; cobrarla es recogerla."
+  },
+  "1417": {
+    "reason": "Cobrar es tirar de un cabo mientras se va recogiendo; lascar es soltarlo parcialmente."
+  },
+  "1418": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1420": {
+    "reason": "La codera trabaja desde el barco hacia un punto opuesto o separado del muelle, y permite controlar su separación lateral."
+  },
+  "1421": {
+    "reason": "El esprín se tiende en diagonal y limita el movimiento longitudinal; su función se diferencia del travesín, que controla la separación lateral."
+  },
+  "1422": {
+    "reason": "Al acercarse a la boya conviene llevar la proa hacia la dirección de donde viene el viento para reducir la arrancada. El rumbo en grados corresponde a esa dirección de procedencia."
+  },
+  "1423": {
+    "reason": "Mantenerse agrupados facilita que los vean y permite ayudarse mutuamente mientras esperan el rescate."
+  },
+  "1425": {
+    "reason": "La sangre arterial suele ser rojo vivo y salir de forma pulsátil por la presión de la circulación arterial."
+  },
+  "1426": {
+    "reason": "Una toma abierta o defectuosa puede permitir que el agua entre en el casco; cerrar los grifos de fondo reduce ese riesgo."
+  },
+  "1427": {
+    "reason": "Una hemorragia venosa suele ser de color rojo más oscuro y fluir de manera continua, a diferencia del sangrado arterial pulsátil."
+  },
+  "1428": {
+    "reason": "La sofocación interrumpe el aporte de oxígeno, uno de los factores necesarios para mantener la combustión."
+  },
+  "1429": {
+    "reason": "Antes de intentar salir de una varada hay que valorar el fondo y comprobar daños y posibles entradas de agua: forzar la maniobra podría agravarlos."
+  },
+  "1431": {
+    "reason": "Parar el motor y aislar combustible y electricidad corta fuentes de alimentación y de ignición del incendio."
+  },
+  "1432": {
+    "reason": "Antes de intentar salir de una varada hay que valorar el fondo y comprobar daños y posibles entradas de agua: forzar la maniobra podría agravarlos."
+  },
+  "1433": {
+    "reason": "Mantenerse agrupados facilita que los vean y permite ayudarse mutuamente mientras esperan el rescate."
+  },
+  "1434": {
+    "reason": "Después de una colisión hay que evaluar de inmediato los daños, especialmente si existe una vía de agua, antes de decidir la siguiente maniobra."
+  },
+  "1436": {
+    "reason": "El bote de humo es una señal de socorro especialmente visible de día; por la noche son más eficaces las señales luminosas."
+  },
+  "1439": {
+    "reason": "La bocina y la limera son pasos de ejes a través del casco y requieren estanqueidad; junto con las tomas de fondo, son puntos a inspeccionar por filtraciones."
+  },
+  "1440": {
+    "reason": "Antes de intentar salir de una varada hay que valorar el fondo y comprobar daños y posibles entradas de agua: forzar la maniobra podría agravarlos."
+  },
+  "1441": {
+    "reason": "Usar las señales pirotécnicas por sotavento aleja del barco chispas y residuos arrastrados por el viento."
+  },
+  "1442": {
+    "reason": "Primero se localiza el fuego, luego se limita su propagación y finalmente se extingue con el agente adecuado."
+  },
+  "1443": {
+    "reason": "Una señal de socorro resulta útil cuando es probable que alguien la vea; conservarla para ese momento evita gastarla sin avisar a nadie."
+  },
+  "1444": {
+    "reason": "La embarcación suele ofrecer más protección y visibilidad que el agua; se abandona cuando ya no puede mantener segura a la tripulación."
+  },
+  "1445": {
+    "reason": "El Centro Radio-Médico Español del Instituto Social de la Marina presta asesoramiento médico a los buques por radio."
+  },
+  "1446": {
+    "reason": "La sofocación interrumpe el aporte de oxígeno, uno de los factores necesarios para mantener la combustión."
+  },
+  "1447": {
+    "reason": "Una hemorragia venosa suele ser de color rojo más oscuro y fluir de manera continua, a diferencia del sangrado arterial pulsátil."
+  },
+  "1448": {
+    "reason": "Cerrar los grifos de fondo cuando la embarcación queda parada reduce la posibilidad de entrada de agua por esas tomas."
+  },
+  "1453": {
+    "reason": "Usar las señales pirotécnicas por sotavento aleja del barco chispas y residuos arrastrados por el viento."
+  },
+  "1454": {
+    "reason": "Una hemorragia venosa suele ser de color rojo más oscuro y fluir de manera continua, a diferencia del sangrado arterial pulsátil."
+  },
+  "1455": {
+    "reason": "Los aceites y grasas de cocina originan fuegos de clase F. El agua a chorro puede dispersar el aceite ardiendo.",
+    "wrong": {
+      "a": "La clase A corresponde a sólidos; el combustible descrito en la pregunta pertenece a otra clase.",
+      "b": "La clase B corresponde a líquidos inflamables; el combustible descrito en la pregunta pertenece a otra clase.",
+      "c": "La clase C corresponde a gases inflamables; el combustible descrito en la pregunta pertenece a otra clase."
+    }
+  },
+  "1456": {
+    "reason": "La bocina es el paso del eje de la hélice a través del casco; sus juntas son un punto que debe vigilarse por posibles filtraciones."
+  },
+  "1457": {
+    "reason": "La embarcación suele ofrecer más protección y visibilidad que el agua; se abandona cuando ya no puede mantener segura a la tripulación."
+  },
+  "1460": {
+    "reason": "El Centro Radio-Médico Español del Instituto Social de la Marina presta asesoramiento médico a los buques por radio."
+  },
+  "1461": {
+    "reason": "Una hemorragia venosa suele ser de color rojo más oscuro y fluir de manera continua, a diferencia del sangrado arterial pulsátil."
+  },
+  "1463": {
+    "reason": "Parar el motor y aislar combustible y electricidad corta fuentes de alimentación y de ignición del incendio."
+  },
+  "1464": {
+    "reason": "La bocina y la limera son pasos de ejes a través del casco y requieren estanqueidad; junto con las tomas de fondo, son puntos a inspeccionar por filtraciones."
+  },
+  "1465": {
+    "reason": "La embarcación suele ofrecer más protección y visibilidad que el agua; se abandona cuando ya no puede mantener segura a la tripulación."
+  },
+  "1466": {
+    "reason": "La bocina y la limera son pasos de ejes a través del casco y requieren estanqueidad; junto con las tomas de fondo, son puntos a inspeccionar por filtraciones."
+  },
+  "1468": {
+    "reason": "La clase A corresponde a combustibles sólidos; el agua puede apagar estos fuegos principalmente enfriando el material."
+  },
+  "1473": {
+    "reason": "El Centro Radio-Médico Español del Instituto Social de la Marina presta asesoramiento médico a los buques por radio."
+  },
+  "1474": {
+    "reason": "La clase A corresponde a combustibles sólidos; el agua puede apagar estos fuegos principalmente enfriando el material."
+  },
+  "1476": {
+    "reason": "Los fuegos de clase B son de líquidos inflamables o sólidos licuables, como el combustible del depósito."
+  },
+  "1478": {
+    "reason": "Los aceites y grasas de cocina originan fuegos de clase F. El agua a chorro puede dispersar el aceite ardiendo.",
+    "wrong": {
+      "a": "La clase A corresponde a sólidos; el combustible descrito en la pregunta pertenece a otra clase.",
+      "c": "La clase B corresponde a líquidos inflamables; el combustible descrito en la pregunta pertenece a otra clase.",
+      "d": "La clase C corresponde a gases inflamables; el combustible descrito en la pregunta pertenece a otra clase."
+    }
+  },
+  "1479": {
+    "reason": "La sangre arterial suele ser rojo vivo y salir de forma pulsátil por la presión de la circulación arterial."
+  },
+  "1480": {
+    "reason": "Los aceites y grasas de cocina originan fuegos de clase F. El agua a chorro puede dispersar el aceite ardiendo.",
+    "wrong": {
+      "a": "La clase A corresponde a sólidos; el combustible descrito en la pregunta pertenece a otra clase.",
+      "b": "La clase B corresponde a líquidos inflamables; el combustible descrito en la pregunta pertenece a otra clase.",
+      "c": "La clase C corresponde a gases inflamables; el combustible descrito en la pregunta pertenece a otra clase."
+    }
+  },
+  "1481": {
+    "reason": "La clase A corresponde a combustibles sólidos; el agua puede apagar estos fuegos principalmente enfriando el material."
+  },
+  "1482": {
+    "reason": "Poner en marcha el achique ayuda a evacuar el agua que entra, mientras se busca y controla la vía de agua."
+  },
+  "1484": {
+    "reason": "Con la popa al viento y una velocidad próxima a la del viento se reduce el viento aparente sobre la embarcación."
+  },
+  "1485": {
+    "reason": "Poner en marcha el achique ayuda a evacuar el agua que entra, mientras se busca y controla la vía de agua."
+  },
+  "1486": {
+    "reason": "Accionar periódicamente los grifos de fondo ayuda a detectar agarrotamientos y a conservar su capacidad de cierre ante una emergencia."
+  },
+  "1487": {
+    "reason": "La embarcación suele ofrecer más protección y visibilidad que el agua; se abandona cuando ya no puede mantener segura a la tripulación."
+  },
+  "1488": {
+    "reason": "La bocina y la limera son pasos de ejes a través del casco y requieren estanqueidad; junto con las tomas de fondo, son puntos a inspeccionar por filtraciones."
+  },
+  "1490": {
+    "reason": "Además de combustible, oxígeno y calor, para mantener la combustión interviene la reacción en cadena."
+  },
+  "1493": {
+    "reason": "La embarcación suele ofrecer más protección y visibilidad que el agua; se abandona cuando ya no puede mantener segura a la tripulación."
+  },
+  "1494": {
+    "reason": "Los fuegos de clase B son de líquidos inflamables o sólidos licuables, como el combustible del depósito.",
+    "wrong": {
+      "a": "La clase A corresponde a sólidos; el combustible descrito en la pregunta pertenece a otra clase.",
+      "c": "La clase C corresponde a gases inflamables; el combustible descrito en la pregunta pertenece a otra clase."
+    }
+  },
+  "1495": {
+    "reason": "Antes de intentar salir de una varada hay que valorar el fondo y comprobar daños y posibles entradas de agua: forzar la maniobra podría agravarlos."
+  },
+  "1501": {
+    "reason": "El turafalla permite obturar provisionalmente un orificio del casco y reducir la entrada de agua."
+  },
+  "1504": {
+    "reason": "Cerrar los grifos de fondo cuando la embarcación queda parada reduce la posibilidad de entrada de agua por esas tomas."
+  },
+  "1505": {
+    "reason": "Una señal de socorro resulta útil cuando es probable que alguien la vea; conservarla para ese momento evita gastarla sin avisar a nadie."
+  },
+  "1507": {
+    "reason": "El enfriamiento reduce la temperatura del combustible por debajo de la necesaria para sostener el fuego."
+  },
+  "1508": {
+    "reason": "Poner en marcha el achique ayuda a evacuar el agua que entra, mientras se busca y controla la vía de agua."
+  },
+  "1509": {
+    "reason": "Primero se localiza el fuego, luego se limita su propagación y finalmente se extingue con el agente adecuado."
+  },
+  "1510": {
+    "reason": "La clase C corresponde a gases inflamables; es esencial cortar el suministro cuando sea posible."
+  },
+  "1513": {
+    "reason": "Los fuegos de clase B son de líquidos inflamables o sólidos licuables, como el combustible del depósito."
+  },
+  "1514": {
+    "reason": "La espuma cubre el combustible y reduce el aporte de oxígeno; también aporta cierto enfriamiento."
+  },
+  "1516": {
+    "reason": "La combustión se inicia cuando coinciden un combustible, un comburente (habitualmente oxígeno) y energía de activación."
+  },
+  "1517": {
+    "reason": "La limera es el paso de la mecha del timón por el casco; un fallo de estanqueidad allí puede causar una vía de agua."
+  },
+  "1518": {
+    "reason": "El humo es una señal visual diurna; por la noche se utilizan señales luminosas."
+  },
+  "1519": {
+    "reason": "Una toma abierta o defectuosa puede permitir que el agua entre en el casco; cerrar los grifos de fondo reduce ese riesgo."
+  },
+  "1520": {
+    "reason": "Antes de intentar salir de una varada hay que valorar el fondo y comprobar daños y posibles entradas de agua: forzar la maniobra podría agravarlos."
+  },
+  "1521": {
+    "reason": "La bocina y la limera son pasos de ejes a través del casco y requieren estanqueidad; junto con las tomas de fondo, son puntos a inspeccionar por filtraciones."
+  },
+  "1523": {
+    "reason": "Después de una colisión hay que evaluar de inmediato los daños, especialmente si existe una vía de agua, antes de decidir la siguiente maniobra."
+  },
+  "1524": {
+    "reason": "Accionar periódicamente los grifos de fondo ayuda a detectar agarrotamientos y a conservar su capacidad de cierre ante una emergencia."
+  },
+  "1525": {
+    "reason": "Accionar periódicamente los grifos de fondo ayuda a detectar agarrotamientos y a conservar su capacidad de cierre ante una emergencia."
+  },
+  "1526": {
+    "reason": "Con la popa al viento y una velocidad próxima a la del viento se reduce el viento aparente sobre la embarcación."
+  },
+  "1530": {
+    "reason": "Una vía de agua es una abertura por la que penetra agua al interior del casco; hay que localizarla, reducirla y achicar."
+  },
+  "1531": {
+    "reason": "La clase A corresponde a combustibles sólidos; el agua puede apagar estos fuegos principalmente enfriando el material."
+  },
+  "1532": {
+    "reason": "Primero se localiza el fuego, luego se limita su propagación y finalmente se extingue con el agente adecuado."
+  },
+  "1535": {
+    "reason": "La bocina es el paso del eje de la hélice a través del casco; sus juntas son un punto que debe vigilarse por posibles filtraciones."
+  },
+  "1537": {
+    "reason": "Usar las señales pirotécnicas por sotavento aleja del barco chispas y residuos arrastrados por el viento."
+  },
+  "1538": {
+    "reason": "Mantenerse agrupados facilita que los vean y permite ayudarse mutuamente mientras esperan el rescate."
+  },
+  "1539": {
+    "reason": "Con la popa al viento y una velocidad próxima a la del viento se reduce el viento aparente sobre la embarcación."
+  },
+  "1540": {
+    "reason": "Usar las señales pirotécnicas por sotavento aleja del barco chispas y residuos arrastrados por el viento."
+  },
+  "1546": {
+    "reason": "Antes de intentar salir de una varada hay que valorar el fondo y comprobar daños y posibles entradas de agua: forzar la maniobra podría agravarlos."
+  },
+  "1547": {
+    "reason": "La limera es el paso de la mecha del timón por el casco; un fallo de estanqueidad allí puede causar una vía de agua."
+  },
+  "1549": {
+    "reason": "Primero se localiza el fuego, luego se limita su propagación y finalmente se extingue con el agente adecuado."
+  },
+  "1550": {
+    "reason": "Con la popa al viento y una velocidad próxima a la del viento se reduce el viento aparente sobre la embarcación."
+  },
+  "1551": {
+    "reason": "Además de combustible, oxígeno y calor, para mantener la combustión interviene la reacción en cadena."
+  },
+  "1552": {
+    "reason": "La embarcación suele ofrecer más protección y visibilidad que el agua; se abandona cuando ya no puede mantener segura a la tripulación."
+  }
+}
