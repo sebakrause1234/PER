@@ -4,6 +4,8 @@ Sitio estático para practicar preguntas del examen PER en español. Contiene 2.
 
 En «Tema y grupo» se puede elegir un bloque de hasta 50 preguntas de los temas habituales, o de hasta 10 preguntas en Carta de navegación: «Seguridad 1», «Seguridad 2», etc. También se puede practicar el banco completo. Los errores y el puntaje guardados en el navegador siguen disponibles después de actualizar la web.
 
+Cada pregunta muestra la fecha de su examen de origen. En 41 de los 96 exámenes se obtuvo el día, mes y año de la fecha de convocatoria de la portada; en los otros 55 se muestra el mes y año identificados en el código o nombre del examen. El día exacto no se deduce de las fechas mencionadas dentro de los ejercicios.
+
 ## Ejecutar localmente
 
 Desde la carpeta `per-practice`, ejecutar `python -m http.server 8000` y abrir `http://localhost:8000/`. Abrir directamente `index.html` como archivo puede impedir la carga de `questions.json` y `explanations.json` por las restricciones del navegador.
